@@ -1,4 +1,4 @@
-package sample;
+package sample.chapter.one;
 
 import javafx.application.Application;
 import javafx.scene.Scene;

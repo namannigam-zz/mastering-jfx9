@@ -1,35 +1,30 @@
-package sample;
+package sample.chapter.two;
 
 import javafx.application.Application;
-import javafx.geometry.Pos;
 import javafx.scene.Scene;
-import javafx.scene.layout.BorderPane;
+import javafx.scene.layout.AnchorPane;
+import javafx.scene.layout.Pane;
+import javafx.scene.layout.TilePane;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
-import javafx.scene.text.Text;
 import javafx.stage.Stage;
 
-public class BorderPaneDemo extends Application {
+public class AnchorPaneDemo extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        BorderPane root = new BorderPane();
-        root.setRight(new Text("Right "));
-        root.setCenter(new Text("Center"));
-        root.setBottom(new Text(" Bottom"));
-        root.setLeft(new Text(" Left"));
+        Rectangle rect = new Rectangle(50, 50, Color.BLUE);
 
-        Text top = new Text("Top");
-        root.setTop(top);
-
-        BorderPane.setAlignment(top, Pos.CENTER);
+        Pane root = new AnchorPane(rect);
+        AnchorPane.setRightAnchor(rect, 20.);
+        AnchorPane.setBottomAnchor(rect, 20.);
 
         for (int i = 0; i < 4; i++) {
             for (int j = 0; j < 4; j++) {
                 double size = 5 + 30 * Math.random();
-                Rectangle rect = new Rectangle(size, size,
+                Rectangle rect1 = new Rectangle(size, size,
                         (i + j) % 2 == 0 ? Color.RED : Color.BLUE);
-                root.getChildren().add(rect);
+                root.getChildren().add(rect1);
             }
         }
 

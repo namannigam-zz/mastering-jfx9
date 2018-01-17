@@ -1,4 +1,4 @@
-package sample;
+package sample.chapter.one;
 
 import javafx.scene.Node;
 import javafx.scene.Parent;
