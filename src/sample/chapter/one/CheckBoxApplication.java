@@ -8,7 +8,6 @@ import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
-
 public class CheckBoxApplication extends Application {
     @Override
     public void start(Stage stage) {

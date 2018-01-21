@@ -7,7 +7,6 @@ import javafx.scene.layout.BorderPane;
 import javafx.scene.text.Text;
 import javafx.stage.Stage;
 import javafx.stage.StageStyle;
-
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
@@ -18,13 +17,13 @@ public class ClockOne extends Application {
 
     private volatile boolean enough = false;
 
-    Thread timer = new Thread(() -> {
+    private Thread timer = new Thread(() -> {
         SimpleDateFormat dt = new SimpleDateFormat("hh:mm:ss");
         while (!enough) {
             try {
                 // running "long" operation not on UI thread
                 Thread.sleep(1000);
-            } catch (InterruptedException ex) {
+            } catch (InterruptedException ignored) {
             }
             final String time = dt.format(new Date());
             Platform.runLater(() -> {
