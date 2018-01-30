@@ -22,7 +22,9 @@
     <option name="FILTER_BY_CURRENT_PROJECT" value="true" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="" />
+    <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="JavaFxApplication.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -83,8 +85,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -103,6 +105,7 @@
       <find>hash</find>
       <find>init()</find>
       <find>provider</find>
+      <find>eval</find>
     </findStrings>
   </component>
   <component name="FindManager">
@@ -142,6 +145,7 @@
         <option value="$PROJECT_DIR$/src/sample/chapter/one/ClockOne.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/one/CheckBoxApplication.java" />
         <option value="$PROJECT_DIR$/src/module-info.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/one/AnchorPaneDemo.java" />
       </list>
     </option>
   </component>
@@ -171,10 +175,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -198,19 +199,15 @@
               <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter" type="462c0819:PsiDirectoryNode" />
-              <item name="one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter" type="462c0819:PsiDirectoryNode" />
               <item name="two" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,7 +221,7 @@
     <property name="GoToClass.includeLibraries" value="false" />
     <property name="dynamic.classpath" value="false" />
     <property name="MemberChooser.copyJavadoc" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="MOduleDes&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/module/ModuleDescriptor.java&#10;ServiceLo&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Service&#9;PSI&#9;JAVA://java.security.Provider.Service&#10;JavaThread&#9;PSI&#9;JAVA://sun.jvm.hotspot.runtime.JavaThread&#10;Jmod&#9;PSI&#9;JAVA://com.sun.codemodel.internal.JMod&#10;Modul&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Module.java&#10;Generated&#9;PSI&#9;JAVA://javax.annotation.Generated&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;package&#9;PSI&#9;JAVA://java.lang.Package&#10;uml&#9;PSI&#9;JAVA://com.sun.tools.doclint.Entity#uml&#10;Reflection&#9;PSI&#9;JAVA://jdk.internal.reflect.Reflection&#10;Module&#9;PSI&#9;JAVA://java.lang.Module&#10;jdk.internal&#9;FILE&#9;jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home!/jdk.plugin/META-INF/services/jdk.internal.netscape.javascript.spi.JSObjectProvider&#10;List&#9;PSI&#9;JAVA://java.util.List" />
+    <property name="SearchEverywhereHistoryKey" value="ScriptE&#9;PSI&#9;JAVA://javax.script.ScriptEngine&#10;MOduleDes&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/module/ModuleDescriptor.java&#10;ServiceLo&#9;PSI&#9;JAVA://java.util.ServiceLoader&#10;Service&#9;PSI&#9;JAVA://java.security.Provider.Service&#10;JavaThread&#9;PSI&#9;JAVA://sun.jvm.hotspot.runtime.JavaThread&#10;Jmod&#9;PSI&#9;JAVA://com.sun.codemodel.internal.JMod&#10;Modul&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/Module.java&#10;Generated&#9;PSI&#9;JAVA://javax.annotation.Generated&#10;Integer&#9;PSI&#9;JAVA://java.lang.Integer&#10;package&#9;PSI&#9;JAVA://java.lang.Package&#10;uml&#9;PSI&#9;JAVA://com.sun.tools.doclint.Entity#uml&#10;Reflection&#9;PSI&#9;JAVA://jdk.internal.reflect.Reflection&#10;Module&#9;PSI&#9;JAVA://java.lang.Module&#10;jdk.internal&#9;FILE&#9;jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home!/jdk.plugin/META-INF/services/jdk.internal.netscape.javascript.spi.JSObjectProvider&#10;List&#9;PSI&#9;JAVA://java.util.List" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -587,8 +584,8 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5708215" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286119" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28432956" sideWeight="0.6703755" order="0" side_tool="false" content_ui="combo" />
@@ -835,13 +832,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/two/AnchorPaneDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/jdk.hotspot.agent/sun/jvm/hotspot/runtime/JavaThread.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
@@ -954,6 +944,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="4" column="1" lean-forward="true" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/one/AnchorPaneDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/two/XYZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="16" lean-forward="false" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.scripting/javax/script/ScriptEngine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="165" column="24" lean-forward="false" selection-start-line="165" selection-start-column="24" selection-end-line="165" selection-end-column="24" />
         </state>
       </provider>
     </entry>
