@@ -2,25 +2,19 @@ package sample.chapter.two;
 
 import javafx.application.Application;
 import javafx.scene.Scene;
-import javafx.scene.layout.Pane;
-import javafx.scene.paint.Color;
+import javafx.scene.image.Image;
+import javafx.scene.layout.StackPane;
+import javafx.scene.paint.ImagePattern;
 import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 
-public class Colors extends Application {
+public class ImagePatternSample extends Application {
 
     @Override
     public void start(Stage primaryStage) {
-        Pane root = new Pane();
-        root.getChildren().addAll(
-                // RED, opacity 0.3
-                new Circle(150, 80, 70, Color.rgb(255, 0, 0, 0.3)),
-                // GREEN, opacity 0.3
-                new Circle(100, 180, 70, Color.hsb(120, 1.0, 1.0, 0.3)),
-                // BLUE, opacity 0.3
-                new Circle(200, 180, 70, Color.web("0x0000FF", 0.3))
-        );
-
+        StackPane root = new StackPane();
+        root.getChildren().add(new Circle(100, new ImagePattern(
+                new Image("https://upload.wikimedia.org/wikipedia/commons/3/3f/Chimpanzee_congo_painting.jpg"))));
         Scene scene = new Scene(root, 200, 150);
         primaryStage.setScene(scene);
         primaryStage.setTitle("Hello FX!");
