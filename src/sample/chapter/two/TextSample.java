@@ -25,11 +25,11 @@ public class TextSample extends Application {
 
 
         Text txt1 = new Text("Text1");
-        txt1.setFont(Font.font ("Courier New", 15));
+        txt1.setFont(Font.font("Courier New", 15));
         Text txt2 = new Text("Text2");
-        txt2.setFont(Font.font ("Times New Roman", 20));
+        txt2.setFont(Font.font("Times New Roman", 20));
         Text txt3 = new Text("Text3");
-        txt3.setFont(Font.font ("Arial", 30));
+        txt3.setFont(Font.font("Arial", 30));
         TextFlow textFlow = new TextFlow(txt1, txt2, txt3);
 
         StackPane root = new StackPane();
