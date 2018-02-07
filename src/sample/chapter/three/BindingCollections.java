@@ -37,9 +37,8 @@ public class BindingCollections extends Application {
 
         // Adding a listener
         IntegerProperty counter = new SimpleIntegerProperty(0);
-        observableList.addListener((ListChangeListener.Change<? extends Button> c) -> {
-            counter.set(counter.intValue() + 1);
-        });
+        observableList
+                .addListener((ListChangeListener.Change<? extends Button> c) -> counter.set(counter.intValue() + 1));
 
         Label label = new Label();
         label.textProperty().bind(counter.asString("changes count: %1$s"));
