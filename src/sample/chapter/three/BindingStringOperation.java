@@ -1,6 +1,7 @@
 package sample.chapter.three;
 
 import javafx.application.Application;
+import javafx.beans.binding.Bindings;
 import javafx.geometry.Pos;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
@@ -8,7 +9,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class BindingOperation extends Application {
+public class BindingStringOperation extends Application {
 
     public void start(Stage stage) {
 
@@ -23,11 +24,9 @@ public class BindingOperation extends Application {
         TextField textField = new TextField();
         Label lblLength = new Label();
 
-        lblLength.textProperty().bind(
-                textField.textProperty()
-                        .length()   // this length returns IntegerBinding, not just an integer
-                        .asString() // so you can keep observing it and use binding methods
-        );
+        lblLength.textProperty().bind(Bindings.concat("Count: ", textField.textProperty().length()
+                // this length returns IntegerBinding, not just an integer
+        )); // asString() so you can keep observing it and use binding methods
 
         HBox root = new HBox(20, textField, lblLength);
         root.setAlignment(Pos.CENTER);
