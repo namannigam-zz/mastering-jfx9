@@ -9,7 +9,7 @@ import javafx.scene.control.TextField;
 import javafx.scene.layout.HBox;
 import javafx.stage.Stage;
 
-public class BindingStringOperation extends Application {
+public class BindingStringOperations extends Application {
 
     public void start(Stage stage) {
 
