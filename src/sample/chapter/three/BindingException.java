@@ -12,6 +12,7 @@ public class BindingException extends Application {
     public void start(Stage stage) {
         Label lblWidth1 = new Label();
         Label lblWidth2 = new Label();
+        Label lblWidth3 = new Label();
 
         lblWidth1.textProperty().bind(stage.widthProperty().asString());
         lblWidth1.setText("Hi"); // exception
@@ -22,6 +23,12 @@ public class BindingException extends Application {
         // can combine both types of binding
         lblWidth1.textProperty().bind(stage.widthProperty().asString());
         lblWidth2.textProperty().bindBidirectional(lblWidth1.textProperty());
+
+
+        // any of them will update all three label at once
+        lblWidth1.textProperty().bindBidirectional(lblWidth2.textProperty());
+        lblWidth1.textProperty().bindBidirectional(lblWidth3.textProperty());
+        lblWidth1.setText("hi"); // or label2.setText("hi"); or label3.setText("hi");
 
 
         stage.setScene(new Scene(new StackPane(lblWidth1), 200, 150));
