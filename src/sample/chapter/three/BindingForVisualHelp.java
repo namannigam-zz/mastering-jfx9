@@ -21,7 +21,7 @@ public class BindingForVisualHelp extends Application {
         sliderRadius.setMajorTickUnit(20);
 
         circle.radiusProperty()
-                .bind(sliderRadius.valueProperty());
+                .bind(sliderRadius.valueProperty()); // binding the slider value to the radius
 
         Slider sliderStrokeWidth = new Slider(0, 10, 2);
         sliderStrokeWidth.setShowTickLabels(true);
@@ -29,7 +29,7 @@ public class BindingForVisualHelp extends Application {
         sliderStrokeWidth.relocate(80, 50);
 
         circle.strokeWidthProperty()
-                .bind(sliderStrokeWidth.valueProperty());
+                .bind(sliderStrokeWidth.valueProperty()); // binding the slider  value to the stroke width
 
         Pane root = new Pane();
         root.getChildren().addAll(sliderRadius, circle, sliderStrokeWidth);
