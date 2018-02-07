@@ -8,6 +8,7 @@ import javafx.scene.control.Slider;
 import javafx.scene.control.TextField;
 import javafx.scene.layout.VBox;
 import javafx.stage.Stage;
+import javafx.util.StringConverter;
 import javafx.util.converter.NumberStringConverter;
 
 import java.util.Locale;
@@ -26,7 +27,22 @@ public class BindingBidirectionalAndConverter extends Application {
         tf2.textProperty().bindBidirectional(s1.valueProperty(),
                 new NumberStringConverter(Locale.US, "Value: 0000.#"));
 
-        VBox root = new VBox(40, s1, tf1, tf2);
+        // adding one more field to the previous example
+        TextField tf3 = new TextField();
+        tf3.textProperty().bindBidirectional(s1.valueProperty(), new StringConverter<Number>() {
+            @Override
+            public String toString(Number number) {
+                return number + " is good number";
+            }
+
+            @Override
+            public Number fromString(String string) {
+                return Double.valueOf(string.split(" ")[0]);
+            }
+        });
+
+
+        VBox root = new VBox(40, s1, tf1, tf2, tf3);
         root.setAlignment(Pos.CENTER);
         root.setPadding(new Insets(20));
 
