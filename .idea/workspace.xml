@@ -30,7 +30,10 @@
     </treeState>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="52a92122-1771-4f51-9fb7-1c82182140fb" name="Default" comment="" />
+    <list default="true" id="52a92122-1771-4f51-9fb7-1c82182140fb" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -111,7 +114,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -230,7 +233,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -472,12 +475,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="FindBugs-IDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Buck" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -489,23 +492,23 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Jenkins" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32956383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -592,7 +595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="38" column="2" lean-forward="true" selection-start-line="38" selection-start-column="2" selection-end-line="38" selection-end-column="2" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -600,7 +602,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
           <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -608,7 +609,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="44" column="41" lean-forward="true" selection-start-line="44" selection-start-column="41" selection-end-line="44" selection-end-column="41" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -616,7 +616,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="258">
           <caret line="65" column="34" lean-forward="false" selection-start-line="65" selection-start-column="34" selection-end-line="65" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -624,7 +623,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -632,7 +630,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="45" column="34" lean-forward="true" selection-start-line="45" selection-start-column="34" selection-end-line="45" selection-end-column="34" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -640,9 +637,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" column="20" lean-forward="false" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,9 +644,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="13" column="14" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,7 +651,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="42" column="25" lean-forward="false" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -668,7 +658,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -676,7 +665,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -684,7 +672,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="41" column="22" lean-forward="false" selection-start-line="41" selection-start-column="22" selection-end-line="41" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -692,7 +679,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -700,7 +686,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -708,7 +693,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -716,7 +700,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="99" column="45" lean-forward="true" selection-start-line="99" selection-start-column="45" selection-end-line="99" selection-end-column="45" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -724,9 +707,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
           <caret line="23" column="36" lean-forward="false" selection-start-line="23" selection-start-column="36" selection-end-line="23" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -734,7 +714,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="38" column="33" lean-forward="false" selection-start-line="38" selection-start-column="17" selection-end-line="38" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -742,7 +721,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="195">
           <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -750,7 +728,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
           <caret line="46" column="22" lean-forward="false" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -758,7 +735,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="59" column="58" lean-forward="false" selection-start-line="59" selection-start-column="58" selection-end-line="59" selection-end-column="58" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -766,10 +742,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-12">
           <caret line="42" column="58" lean-forward="true" selection-start-line="42" selection-start-column="58" selection-end-line="42" selection-end-column="58" />
-          <folding>
-            <element signature="e#1601#1602#0" expanded="false" />
-            <element signature="e#1656#1657#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -777,9 +749,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="402">
           <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -787,9 +756,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -797,887 +763,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="147" column="26" lean-forward="false" selection-start-line="147" selection-start-column="26" selection-end-line="147" selection-end-column="26" />
-          <folding>
-            <element signature="docComment;class#Bindings#0" expanded="false" />
-            <element signature="method#Bindings#0;class#Bindings#0" expanded="false" />
-            <element signature="e#4388#4504#0" expanded="false" />
-            <element signature="docComment;method#createBooleanBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createBooleanBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#4980:5973" expanded="false" />
-            <element signature="initializer##0;class#4980:5973" expanded="false" />
-            <element signature="method#computeValue#0;class#4980:5973" expanded="false" />
-            <element signature="method#getDependencies#0;class#4980:5973" expanded="false" />
-            <element signature="docComment;method#createDoubleBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createDoubleBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#6402:7391" expanded="false" />
-            <element signature="initializer##0;class#6402:7391" expanded="false" />
-            <element signature="method#computeValue#0;class#6402:7391" expanded="false" />
-            <element signature="method#getDependencies#0;class#6402:7391" expanded="false" />
-            <element signature="docComment;method#createFloatBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createFloatBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#7816:8804" expanded="false" />
-            <element signature="initializer##0;class#7816:8804" expanded="false" />
-            <element signature="method#computeValue#0;class#7816:8804" expanded="false" />
-            <element signature="method#getDependencies#0;class#7816:8804" expanded="false" />
-            <element signature="docComment;method#createIntegerBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createIntegerBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#9237:10222" expanded="false" />
-            <element signature="initializer##0;class#9237:10222" expanded="false" />
-            <element signature="method#computeValue#0;class#9237:10222" expanded="false" />
-            <element signature="method#getDependencies#0;class#9237:10222" expanded="false" />
-            <element signature="docComment;method#createLongBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createLongBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#10643:11627" expanded="false" />
-            <element signature="initializer##0;class#10643:11627" expanded="false" />
-            <element signature="method#computeValue#0;class#10643:11627" expanded="false" />
-            <element signature="method#getDependencies#0;class#10643:11627" expanded="false" />
-            <element signature="docComment;method#createObjectBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createObjectBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#12113:13101" expanded="false" />
-            <element signature="initializer##0;class#12113:13101" expanded="false" />
-            <element signature="method#computeValue#0;class#12113:13101" expanded="false" />
-            <element signature="method#getDependencies#0;class#12113:13101" expanded="false" />
-            <element signature="docComment;method#createStringBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#createStringBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#13530:14518" expanded="false" />
-            <element signature="initializer##0;class#13530:14518" expanded="false" />
-            <element signature="method#computeValue#0;class#13530:14518" expanded="false" />
-            <element signature="method#getDependencies#0;class#13530:14518" expanded="false" />
-            <element signature="e#14532#14648#0" expanded="false" />
-            <element signature="docComment;method#select#0;class#Bindings#0" expanded="false" />
-            <element signature="method#select#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectDouble#0;class#Bindings#0" expanded="false" />
-            <element signature="method#selectDouble#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectFloat#0;class#Bindings#0" expanded="false" />
-            <element signature="method#selectFloat#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectInteger#0;class#Bindings#0" expanded="false" />
-            <element signature="method#selectInteger#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectLong#0;class#Bindings#0" expanded="false" />
-            <element signature="method#selectLong#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectBoolean#0;class#Bindings#0" expanded="false" />
-            <element signature="method#selectBoolean#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectString#0;class#Bindings#0" expanded="false" />
-            <element signature="method#selectString#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#select#1;class#Bindings#0" expanded="false" />
-            <element signature="method#select#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectDouble#1;class#Bindings#0" expanded="false" />
-            <element signature="method#selectDouble#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectFloat#1;class#Bindings#0" expanded="false" />
-            <element signature="method#selectFloat#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectInteger#1;class#Bindings#0" expanded="false" />
-            <element signature="method#selectInteger#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectLong#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectBoolean#1;class#Bindings#0" expanded="false" />
-            <element signature="method#selectBoolean#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#selectString#1;class#Bindings#0" expanded="false" />
-            <element signature="method#selectString#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#when#0;class#Bindings#0" expanded="false" />
-            <element signature="e#33043#33044#0" expanded="false" />
-            <element signature="e#33085#33086#0" expanded="false" />
-            <element signature="e#33092#33208#0" expanded="false" />
-            <element signature="docComment;method#bindBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="method#bindBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#unbindBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="method#unbindBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#unbindBidirectional#1;class#Bindings#0" expanded="false" />
-            <element signature="method#unbindBidirectional#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindBidirectional#1;class#Bindings#0" expanded="false" />
-            <element signature="method#bindBidirectional#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindBidirectional#2;class#Bindings#0" expanded="false" />
-            <element signature="method#bindBidirectional#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindContentBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="method#bindContentBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindContentBidirectional#1;class#Bindings#0" expanded="false" />
-            <element signature="method#bindContentBidirectional#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindContentBidirectional#2;class#Bindings#0" expanded="false" />
-            <element signature="method#bindContentBidirectional#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#unbindContentBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="method#unbindContentBidirectional#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindContent#0;class#Bindings#0" expanded="false" />
-            <element signature="method#bindContent#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindContent#1;class#Bindings#0" expanded="false" />
-            <element signature="method#bindContent#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#bindContent#2;class#Bindings#0" expanded="false" />
-            <element signature="method#bindContent#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#unbindContent#0;class#Bindings#0" expanded="false" />
-            <element signature="e#49767#49883#0" expanded="false" />
-            <element signature="docComment;method#negate#0;class#Bindings#0" expanded="false" />
-            <element signature="method#negate#0;class#Bindings#0" expanded="false" />
-            <element signature="class#50522:51077" expanded="false" />
-            <element signature="initializer##0;class#50522:51077" expanded="false" />
-            <element signature="class#51162:51714" expanded="false" />
-            <element signature="initializer##0;class#51162:51714" expanded="false" />
-            <element signature="class#51798:52347" expanded="false" />
-            <element signature="initializer##0;class#51798:52347" expanded="false" />
-            <element signature="class#52389:52939" expanded="false" />
-            <element signature="initializer##0;class#52389:52939" expanded="false" />
-            <element signature="e#52962#53078#0" expanded="false" />
-            <element signature="method#add#0;class#Bindings#0" expanded="false" />
-            <element signature="class#53546:54282" expanded="false" />
-            <element signature="initializer##0;class#53546:54282" expanded="false" />
-            <element signature="method#getDependencies#0;class#53546:54282" expanded="false" />
-            <element signature="class#54408:55140" expanded="false" />
-            <element signature="initializer##0;class#54408:55140" expanded="false" />
-            <element signature="method#getDependencies#0;class#54408:55140" expanded="false" />
-            <element signature="class#55264:55992" expanded="false" />
-            <element signature="initializer##0;class#55264:55992" expanded="false" />
-            <element signature="method#getDependencies#0;class#55264:55992" expanded="false" />
-            <element signature="class#56034:56762" expanded="false" />
-            <element signature="initializer##0;class#56034:56762" expanded="false" />
-            <element signature="method#getDependencies#0;class#56034:56762" expanded="false" />
-            <element signature="docComment;method#add#1;class#Bindings#0" expanded="false" />
-            <element signature="method#add#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#2;class#Bindings#0" expanded="false" />
-            <element signature="method#add#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#3;class#Bindings#0" expanded="false" />
-            <element signature="method#add#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#4;class#Bindings#0" expanded="false" />
-            <element signature="method#add#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#5;class#Bindings#0" expanded="false" />
-            <element signature="method#add#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#6;class#Bindings#0" expanded="false" />
-            <element signature="method#add#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#7;class#Bindings#0" expanded="false" />
-            <element signature="method#add#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#8;class#Bindings#0" expanded="false" />
-            <element signature="method#add#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#add#9;class#Bindings#0" expanded="false" />
-            <element signature="method#add#9;class#Bindings#0" expanded="false" />
-            <element signature="e#62618#62734#0" expanded="false" />
-            <element signature="method#subtract#0;class#Bindings#0" expanded="false" />
-            <element signature="class#63208:63944" expanded="false" />
-            <element signature="initializer##0;class#63208:63944" expanded="false" />
-            <element signature="method#getDependencies#0;class#63208:63944" expanded="false" />
-            <element signature="class#64070:64802" expanded="false" />
-            <element signature="initializer##0;class#64070:64802" expanded="false" />
-            <element signature="method#getDependencies#0;class#64070:64802" expanded="false" />
-            <element signature="class#64926:65654" expanded="false" />
-            <element signature="initializer##0;class#64926:65654" expanded="false" />
-            <element signature="method#getDependencies#0;class#64926:65654" expanded="false" />
-            <element signature="class#65696:66424" expanded="false" />
-            <element signature="initializer##0;class#65696:66424" expanded="false" />
-            <element signature="method#getDependencies#0;class#65696:66424" expanded="false" />
-            <element signature="docComment;method#subtract#1;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#2;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#3;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#4;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#5;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#6;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#7;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#8;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#subtract#9;class#Bindings#0" expanded="false" />
-            <element signature="method#subtract#9;class#Bindings#0" expanded="false" />
-            <element signature="e#72433#72549#0" expanded="false" />
-            <element signature="method#multiply#0;class#Bindings#0" expanded="false" />
-            <element signature="class#73027:73763" expanded="false" />
-            <element signature="initializer##0;class#73027:73763" expanded="false" />
-            <element signature="method#getDependencies#0;class#73027:73763" expanded="false" />
-            <element signature="class#73889:74621" expanded="false" />
-            <element signature="initializer##0;class#73889:74621" expanded="false" />
-            <element signature="method#getDependencies#0;class#73889:74621" expanded="false" />
-            <element signature="class#74745:75473" expanded="false" />
-            <element signature="initializer##0;class#74745:75473" expanded="false" />
-            <element signature="method#getDependencies#0;class#74745:75473" expanded="false" />
-            <element signature="class#75515:76243" expanded="false" />
-            <element signature="initializer##0;class#75515:76243" expanded="false" />
-            <element signature="method#getDependencies#0;class#75515:76243" expanded="false" />
-            <element signature="docComment;method#multiply#1;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#2;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#3;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#4;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#5;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#6;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#7;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#8;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#multiply#9;class#Bindings#0" expanded="false" />
-            <element signature="method#multiply#9;class#Bindings#0" expanded="false" />
-            <element signature="e#82225#82341#0" expanded="false" />
-            <element signature="method#divide#0;class#Bindings#0" expanded="false" />
-            <element signature="class#82815:83551" expanded="false" />
-            <element signature="initializer##0;class#82815:83551" expanded="false" />
-            <element signature="method#getDependencies#0;class#82815:83551" expanded="false" />
-            <element signature="class#83677:84409" expanded="false" />
-            <element signature="initializer##0;class#83677:84409" expanded="false" />
-            <element signature="method#getDependencies#0;class#83677:84409" expanded="false" />
-            <element signature="class#84533:85261" expanded="false" />
-            <element signature="initializer##0;class#84533:85261" expanded="false" />
-            <element signature="method#getDependencies#0;class#84533:85261" expanded="false" />
-            <element signature="class#85303:86031" expanded="false" />
-            <element signature="initializer##0;class#85303:86031" expanded="false" />
-            <element signature="method#getDependencies#0;class#85303:86031" expanded="false" />
-            <element signature="docComment;method#divide#1;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#2;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#3;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#4;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#5;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#6;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#7;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#8;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#divide#9;class#Bindings#0" expanded="false" />
-            <element signature="method#divide#9;class#Bindings#0" expanded="false" />
-            <element signature="e#91986#92102#0" expanded="false" />
-            <element signature="method#equal#0;class#Bindings#0" expanded="false" />
-            <element signature="class#92598:93357" expanded="false" />
-            <element signature="initializer##0;class#92598:93357" expanded="false" />
-            <element signature="method#getDependencies#0;class#92598:93357" expanded="false" />
-            <element signature="class#93483:94240" expanded="false" />
-            <element signature="initializer##0;class#93483:94240" expanded="false" />
-            <element signature="method#getDependencies#0;class#93483:94240" expanded="false" />
-            <element signature="class#94364:95119" expanded="false" />
-            <element signature="initializer##0;class#94364:95119" expanded="false" />
-            <element signature="method#getDependencies#0;class#94364:95119" expanded="false" />
-            <element signature="class#95161:95914" expanded="false" />
-            <element signature="initializer##0;class#95161:95914" expanded="false" />
-            <element signature="method#getDependencies#0;class#95161:95914" expanded="false" />
-            <element signature="docComment;method#equal#1;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#2;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#3;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#4;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#5;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#6;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#7;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#8;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#9;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#9;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#10;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#10;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#11;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#11;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#12;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#12;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#13;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#13;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#14;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#14;class#Bindings#0" expanded="false" />
-            <element signature="e#109448#109564#0" expanded="false" />
-            <element signature="method#notEqual#0;class#Bindings#0" expanded="false" />
-            <element signature="class#110066:110824" expanded="false" />
-            <element signature="initializer##0;class#110066:110824" expanded="false" />
-            <element signature="method#getDependencies#0;class#110066:110824" expanded="false" />
-            <element signature="class#110950:111706" expanded="false" />
-            <element signature="initializer##0;class#110950:111706" expanded="false" />
-            <element signature="method#getDependencies#0;class#110950:111706" expanded="false" />
-            <element signature="class#111830:112584" expanded="false" />
-            <element signature="initializer##0;class#111830:112584" expanded="false" />
-            <element signature="method#getDependencies#0;class#111830:112584" expanded="false" />
-            <element signature="class#112626:113378" expanded="false" />
-            <element signature="initializer##0;class#112626:113378" expanded="false" />
-            <element signature="method#getDependencies#0;class#112626:113378" expanded="false" />
-            <element signature="docComment;method#notEqual#1;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#2;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#3;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#4;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#5;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#6;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#7;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#8;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#9;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#9;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#10;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#10;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#11;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#11;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#12;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#12;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#13;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#13;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#14;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#14;class#Bindings#0" expanded="false" />
-            <element signature="e#127081#127197#0" expanded="false" />
-            <element signature="method#greaterThan#0;class#Bindings#0" expanded="false" />
-            <element signature="class#127683:128421" expanded="false" />
-            <element signature="initializer##0;class#127683:128421" expanded="false" />
-            <element signature="method#getDependencies#0;class#127683:128421" expanded="false" />
-            <element signature="class#128547:129283" expanded="false" />
-            <element signature="initializer##0;class#128547:129283" expanded="false" />
-            <element signature="method#getDependencies#0;class#128547:129283" expanded="false" />
-            <element signature="class#129407:130141" expanded="false" />
-            <element signature="initializer##0;class#129407:130141" expanded="false" />
-            <element signature="method#getDependencies#0;class#129407:130141" expanded="false" />
-            <element signature="class#130183:130915" expanded="false" />
-            <element signature="initializer##0;class#130183:130915" expanded="false" />
-            <element signature="method#getDependencies#0;class#130183:130915" expanded="false" />
-            <element signature="docComment;method#greaterThan#1;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#2;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#3;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#4;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#5;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#6;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#7;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#8;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#9;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#9;class#Bindings#0" expanded="false" />
-            <element signature="e#137021#137137#0" expanded="false" />
-            <element signature="method#lessThan#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#1;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#2;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#3;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#4;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#5;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#6;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#7;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#8;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#9;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#9;class#Bindings#0" expanded="false" />
-            <element signature="e#143357#143473#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#0;class#Bindings#0" expanded="false" />
-            <element signature="class#143975:144714" expanded="false" />
-            <element signature="initializer##0;class#143975:144714" expanded="false" />
-            <element signature="method#getDependencies#0;class#143975:144714" expanded="false" />
-            <element signature="class#144840:145577" expanded="false" />
-            <element signature="initializer##0;class#144840:145577" expanded="false" />
-            <element signature="method#getDependencies#0;class#144840:145577" expanded="false" />
-            <element signature="class#145701:146436" expanded="false" />
-            <element signature="initializer##0;class#145701:146436" expanded="false" />
-            <element signature="method#getDependencies#0;class#145701:146436" expanded="false" />
-            <element signature="class#146478:147211" expanded="false" />
-            <element signature="initializer##0;class#146478:147211" expanded="false" />
-            <element signature="method#getDependencies#0;class#146478:147211" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#1;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#2;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#3;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#4;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#5;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#6;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#7;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#8;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#9;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#9;class#Bindings#0" expanded="false" />
-            <element signature="e#153542#153658#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#1;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#2;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#3;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#4;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#5;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#6;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#7;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#8;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#9;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#9;class#Bindings#0" expanded="false" />
-            <element signature="e#160130#160246#0" expanded="false" />
-            <element signature="method#min#0;class#Bindings#0" expanded="false" />
-            <element signature="class#160718:161463" expanded="false" />
-            <element signature="initializer##0;class#160718:161463" expanded="false" />
-            <element signature="method#getDependencies#0;class#160718:161463" expanded="false" />
-            <element signature="class#161589:162330" expanded="false" />
-            <element signature="initializer##0;class#161589:162330" expanded="false" />
-            <element signature="method#getDependencies#0;class#161589:162330" expanded="false" />
-            <element signature="class#162454:163191" expanded="false" />
-            <element signature="initializer##0;class#162454:163191" expanded="false" />
-            <element signature="method#getDependencies#0;class#162454:163191" expanded="false" />
-            <element signature="class#163233:163970" expanded="false" />
-            <element signature="initializer##0;class#163233:163970" expanded="false" />
-            <element signature="method#getDependencies#0;class#163233:163970" expanded="false" />
-            <element signature="docComment;method#min#1;class#Bindings#0" expanded="false" />
-            <element signature="method#min#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#2;class#Bindings#0" expanded="false" />
-            <element signature="method#min#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#3;class#Bindings#0" expanded="false" />
-            <element signature="method#min#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#4;class#Bindings#0" expanded="false" />
-            <element signature="method#min#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#5;class#Bindings#0" expanded="false" />
-            <element signature="method#min#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#6;class#Bindings#0" expanded="false" />
-            <element signature="method#min#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#7;class#Bindings#0" expanded="false" />
-            <element signature="method#min#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#8;class#Bindings#0" expanded="false" />
-            <element signature="method#min#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#min#9;class#Bindings#0" expanded="false" />
-            <element signature="method#min#9;class#Bindings#0" expanded="false" />
-            <element signature="e#169829#169945#0" expanded="false" />
-            <element signature="method#max#0;class#Bindings#0" expanded="false" />
-            <element signature="class#170417:171162" expanded="false" />
-            <element signature="initializer##0;class#170417:171162" expanded="false" />
-            <element signature="method#getDependencies#0;class#170417:171162" expanded="false" />
-            <element signature="class#171288:172029" expanded="false" />
-            <element signature="initializer##0;class#171288:172029" expanded="false" />
-            <element signature="method#getDependencies#0;class#171288:172029" expanded="false" />
-            <element signature="class#172153:172890" expanded="false" />
-            <element signature="initializer##0;class#172153:172890" expanded="false" />
-            <element signature="method#getDependencies#0;class#172153:172890" expanded="false" />
-            <element signature="class#172932:173669" expanded="false" />
-            <element signature="initializer##0;class#172932:173669" expanded="false" />
-            <element signature="method#getDependencies#0;class#172932:173669" expanded="false" />
-            <element signature="docComment;method#max#1;class#Bindings#0" expanded="false" />
-            <element signature="method#max#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#2;class#Bindings#0" expanded="false" />
-            <element signature="method#max#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#3;class#Bindings#0" expanded="false" />
-            <element signature="method#max#3;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#4;class#Bindings#0" expanded="false" />
-            <element signature="method#max#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#5;class#Bindings#0" expanded="false" />
-            <element signature="method#max#5;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#6;class#Bindings#0" expanded="false" />
-            <element signature="method#max#6;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#7;class#Bindings#0" expanded="false" />
-            <element signature="method#max#7;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#8;class#Bindings#0" expanded="false" />
-            <element signature="method#max#8;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#max#9;class#Bindings#0" expanded="false" />
-            <element signature="method#max#9;class#Bindings#0" expanded="false" />
-            <element signature="e#179528#179538#0" expanded="false" />
-            <element signature="class#BooleanAndBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#BooleanAndBinding#0;class#BooleanAndBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#dispose#0;class#BooleanAndBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#ShortCircuitAndInvalidator#0;class#Bindings#0" expanded="false" />
-            <element signature="method#ShortCircuitAndInvalidator#0;class#ShortCircuitAndInvalidator#0;class#Bindings#0" expanded="false" />
-            <element signature="method#invalidated#0;class#ShortCircuitAndInvalidator#0;class#Bindings#0" expanded="false" />
-            <element signature="e#181161#181219#0" expanded="false" />
-            <element signature="docComment;method#and#0;class#Bindings#0" expanded="false" />
-            <element signature="method#and#0;class#Bindings#0" expanded="false" />
-            <element signature="class#BooleanOrBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#BooleanOrBinding#0;class#BooleanOrBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="method#dispose#0;class#BooleanOrBinding#0;class#Bindings#0" expanded="false" />
-            <element signature="class#ShortCircuitOrInvalidator#0;class#Bindings#0" expanded="false" />
-            <element signature="method#ShortCircuitOrInvalidator#0;class#ShortCircuitOrInvalidator#0;class#Bindings#0" expanded="false" />
-            <element signature="method#invalidated#0;class#ShortCircuitOrInvalidator#0;class#Bindings#0" expanded="false" />
-            <element signature="e#183799#183857#0" expanded="false" />
-            <element signature="docComment;method#or#0;class#Bindings#0" expanded="false" />
-            <element signature="method#or#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#not#0;class#Bindings#0" expanded="false" />
-            <element signature="method#not#0;class#Bindings#0" expanded="false" />
-            <element signature="class#185514:185987" expanded="false" />
-            <element signature="initializer##0;class#185514:185987" expanded="false" />
-            <element signature="docComment;method#equal#15;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#15;class#Bindings#0" expanded="false" />
-            <element signature="class#186695:187213" expanded="false" />
-            <element signature="initializer##0;class#186695:187213" expanded="false" />
-            <element signature="method#getDependencies#0;class#186695:187213" expanded="false" />
-            <element signature="docComment;method#notEqual#15;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#15;class#Bindings#0" expanded="false" />
-            <element signature="class#187935:188453" expanded="false" />
-            <element signature="initializer##0;class#187935:188453" expanded="false" />
-            <element signature="method#getDependencies#0;class#187935:188453" expanded="false" />
-            <element signature="e#188466#188475#0" expanded="false" />
-            <element signature="docComment;method#convert#0;class#Bindings#0" expanded="false" />
-            <element signature="method#convert#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#concat#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#format#0;class#Bindings#0" expanded="false" />
-            <element signature="method#format#0;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#format#1;class#Bindings#0" expanded="false" />
-            <element signature="method#format#1;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#16;class#Bindings#0" expanded="false" />
-            <element signature="class#192747:193509" expanded="false" />
-            <element signature="initializer##0;class#192747:193509" expanded="false" />
-            <element signature="method#computeValue#0;class#192747:193509" expanded="false" />
-            <element signature="method#getDependencies#0;class#192747:193509" expanded="false" />
-            <element signature="docComment;method#equal#17;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#17;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#18;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#18;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#19;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#19;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#16;class#Bindings#0" expanded="false" />
-            <element signature="class#196224:196988" expanded="false" />
-            <element signature="initializer##0;class#196224:196988" expanded="false" />
-            <element signature="method#computeValue#0;class#196224:196988" expanded="false" />
-            <element signature="method#getDependencies#0;class#196224:196988" expanded="false" />
-            <element signature="docComment;method#notEqual#17;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#17;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#18;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#18;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#19;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#19;class#Bindings#0" expanded="false" />
-            <element signature="method#equalIgnoreCase#0;class#Bindings#0" expanded="false" />
-            <element signature="class#199740:200512" expanded="false" />
-            <element signature="initializer##0;class#199740:200512" expanded="false" />
-            <element signature="method#computeValue#0;class#199740:200512" expanded="false" />
-            <element signature="method#getDependencies#0;class#199740:200512" expanded="false" />
-            <element signature="docComment;method#equalIgnoreCase#1;class#Bindings#0" expanded="false" />
-            <element signature="method#equalIgnoreCase#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equalIgnoreCase#2;class#Bindings#0" expanded="false" />
-            <element signature="method#equalIgnoreCase#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equalIgnoreCase#3;class#Bindings#0" expanded="false" />
-            <element signature="method#equalIgnoreCase#3;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqualIgnoreCase#0;class#Bindings#0" expanded="false" />
-            <element signature="class#203339:204113" expanded="false" />
-            <element signature="initializer##0;class#203339:204113" expanded="false" />
-            <element signature="method#computeValue#0;class#203339:204113" expanded="false" />
-            <element signature="method#getDependencies#0;class#203339:204113" expanded="false" />
-            <element signature="docComment;method#notEqualIgnoreCase#1;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqualIgnoreCase#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqualIgnoreCase#2;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqualIgnoreCase#2;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqualIgnoreCase#3;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqualIgnoreCase#3;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#10;class#Bindings#0" expanded="false" />
-            <element signature="class#206970:207739" expanded="false" />
-            <element signature="initializer##0;class#206970:207739" expanded="false" />
-            <element signature="method#computeValue#0;class#206970:207739" expanded="false" />
-            <element signature="method#getDependencies#0;class#206970:207739" expanded="false" />
-            <element signature="docComment;method#greaterThan#11;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#11;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#12;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#12;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThan#13;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThan#13;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#10;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#11;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#11;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#12;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#12;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThan#13;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThan#13;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#10;class#Bindings#0" expanded="false" />
-            <element signature="class#213145:213915" expanded="false" />
-            <element signature="initializer##0;class#213145:213915" expanded="false" />
-            <element signature="method#computeValue#0;class#213145:213915" expanded="false" />
-            <element signature="method#getDependencies#0;class#213145:213915" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#11;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#11;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#12;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#12;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#greaterThanOrEqual#13;class#Bindings#0" expanded="false" />
-            <element signature="method#greaterThanOrEqual#13;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#10;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#11;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#11;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#12;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#12;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#lessThanOrEqual#13;class#Bindings#0" expanded="false" />
-            <element signature="method#lessThanOrEqual#13;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#length#0;class#Bindings#0" expanded="false" />
-            <element signature="method#length#0;class#Bindings#0" expanded="false" />
-            <element signature="class#219860:220352" expanded="false" />
-            <element signature="initializer##0;class#219860:220352" expanded="false" />
-            <element signature="docComment;method#isEmpty#0;class#Bindings#0" expanded="false" />
-            <element signature="method#isEmpty#0;class#Bindings#0" expanded="false" />
-            <element signature="class#221121:221618" expanded="false" />
-            <element signature="initializer##0;class#221121:221618" expanded="false" />
-            <element signature="docComment;method#isNotEmpty#0;class#Bindings#0" expanded="false" />
-            <element signature="method#isNotEmpty#0;class#Bindings#0" expanded="false" />
-            <element signature="class#222394:222892" expanded="false" />
-            <element signature="initializer##0;class#222394:222892" expanded="false" />
-            <element signature="e#222905#222914#0" expanded="false" />
-            <element signature="method#equal#20;class#Bindings#0" expanded="false" />
-            <element signature="class#223401:224171" expanded="false" />
-            <element signature="initializer##0;class#223401:224171" expanded="false" />
-            <element signature="method#computeValue#0;class#223401:224171" expanded="false" />
-            <element signature="method#getDependencies#0;class#223401:224171" expanded="false" />
-            <element signature="docComment;method#equal#21;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#21;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#22;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#22;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#equal#23;class#Bindings#0" expanded="false" />
-            <element signature="method#equal#23;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#20;class#Bindings#0" expanded="false" />
-            <element signature="class#226510:227282" expanded="false" />
-            <element signature="initializer##0;class#226510:227282" expanded="false" />
-            <element signature="method#computeValue#0;class#226510:227282" expanded="false" />
-            <element signature="method#getDependencies#0;class#226510:227282" expanded="false" />
-            <element signature="docComment;method#notEqual#21;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#21;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#22;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#22;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#notEqual#23;class#Bindings#0" expanded="false" />
-            <element signature="method#notEqual#23;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#isNull#0;class#Bindings#0" expanded="false" />
-            <element signature="method#isNull#0;class#Bindings#0" expanded="false" />
-            <element signature="class#229910:230390" expanded="false" />
-            <element signature="initializer##0;class#229910:230390" expanded="false" />
-            <element signature="docComment;method#isNotNull#0;class#Bindings#0" expanded="false" />
-            <element signature="method#isNotNull#0;class#Bindings#0" expanded="false" />
-            <element signature="class#231044:231524" expanded="false" />
-            <element signature="initializer##0;class#231044:231524" expanded="false" />
-            <element signature="e#231537#231544#0" expanded="false" />
-            <element signature="docComment;method#size#0;class#Bindings#0" expanded="false" />
-            <element signature="method#size#0;class#Bindings#0" expanded="false" />
-            <element signature="class#232316:232785" expanded="false" />
-            <element signature="initializer##0;class#232316:232785" expanded="false" />
-            <element signature="docComment;method#isEmpty#1;class#Bindings#0" expanded="false" />
-            <element signature="method#isEmpty#1;class#Bindings#0" expanded="false" />
-            <element signature="class#233461:233937" expanded="false" />
-            <element signature="initializer##0;class#233461:233937" expanded="false" />
-            <element signature="docComment;method#isNotEmpty#1;class#Bindings#0" expanded="false" />
-            <element signature="method#isNotEmpty#1;class#Bindings#0" expanded="false" />
-            <element signature="class#234624:235101" expanded="false" />
-            <element signature="initializer##0;class#234624:235101" expanded="false" />
-            <element signature="docComment;method#valueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#valueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#236126:236817" expanded="false" />
-            <element signature="initializer##0;class#236126:236817" expanded="false" />
-            <element signature="method#computeValue#0;class#236126:236817" expanded="false" />
-            <element signature="docComment;method#valueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#valueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#valueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#valueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#238563:239288" expanded="false" />
-            <element signature="initializer##0;class#238563:239288" expanded="false" />
-            <element signature="method#computeValue#0;class#238563:239288" expanded="false" />
-            <element signature="docComment;method#booleanValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#booleanValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#240265:241242" expanded="false" />
-            <element signature="initializer##0;class#240265:241242" expanded="false" />
-            <element signature="method#computeValue#0;class#240265:241242" expanded="false" />
-            <element signature="docComment;method#booleanValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#booleanValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#booleanValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#booleanValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#242899:243910" expanded="false" />
-            <element signature="initializer##0;class#242899:243910" expanded="false" />
-            <element signature="method#computeValue#0;class#242899:243910" expanded="false" />
-            <element signature="docComment;method#doubleValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#doubleValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#244889:245875" expanded="false" />
-            <element signature="initializer##0;class#244889:245875" expanded="false" />
-            <element signature="method#computeValue#0;class#244889:245875" expanded="false" />
-            <element signature="docComment;method#doubleValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#doubleValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#doubleValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#doubleValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#247535:248555" expanded="false" />
-            <element signature="initializer##0;class#247535:248555" expanded="false" />
-            <element signature="method#computeValue#0;class#247535:248555" expanded="false" />
-            <element signature="docComment;method#floatValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#249530:250514" expanded="false" />
-            <element signature="initializer##0;class#249530:250514" expanded="false" />
-            <element signature="method#computeValue#0;class#249530:250514" expanded="false" />
-            <element signature="docComment;method#floatValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#floatValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#252165:253183" expanded="false" />
-            <element signature="initializer##0;class#252165:253183" expanded="false" />
-            <element signature="method#computeValue#0;class#252165:253183" expanded="false" />
-            <element signature="docComment;method#integerValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#254165:255144" expanded="false" />
-            <element signature="initializer##0;class#254165:255144" expanded="false" />
-            <element signature="method#computeValue#0;class#254165:255144" expanded="false" />
-            <element signature="docComment;method#integerValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#integerValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#256811:257824" expanded="false" />
-            <element signature="initializer##0;class#256811:257824" expanded="false" />
-            <element signature="method#computeValue#0;class#256811:257824" expanded="false" />
-            <element signature="docComment;method#longValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#longValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#258792:259771" expanded="false" />
-            <element signature="initializer##0;class#258792:259771" expanded="false" />
-            <element signature="method#computeValue#0;class#258792:259771" expanded="false" />
-            <element signature="docComment;method#longValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#longValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#longValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#longValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#261407:262420" expanded="false" />
-            <element signature="initializer##0;class#261407:262420" expanded="false" />
-            <element signature="method#computeValue#0;class#261407:262420" expanded="false" />
-            <element signature="docComment;method#stringValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="method#stringValueAt#0;class#Bindings#0" expanded="false" />
-            <element signature="class#263390:264083" expanded="false" />
-            <element signature="initializer##0;class#263390:264083" expanded="false" />
-            <element signature="method#computeValue#0;class#263390:264083" expanded="false" />
-            <element signature="docComment;method#stringValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="method#stringValueAt#1;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#stringValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="method#stringValueAt#2;class#Bindings#0" expanded="false" />
-            <element signature="class#265721:266448" expanded="false" />
-            <element signature="initializer##0;class#265721:266448" expanded="false" />
-            <element signature="method#computeValue#0;class#265721:266448" expanded="false" />
-            <element signature="e#266461#266467#0" expanded="false" />
-            <element signature="docComment;method#size#1;class#Bindings#0" expanded="false" />
-            <element signature="method#size#1;class#Bindings#0" expanded="false" />
-            <element signature="class#267237:267706" expanded="false" />
-            <element signature="initializer##0;class#267237:267706" expanded="false" />
-            <element signature="docComment;method#isEmpty#2;class#Bindings#0" expanded="false" />
-            <element signature="method#isEmpty#2;class#Bindings#0" expanded="false" />
-            <element signature="class#268380:268856" expanded="false" />
-            <element signature="initializer##0;class#268380:268856" expanded="false" />
-            <element signature="docComment;method#isNotEmpty#2;class#Bindings#0" expanded="false" />
-            <element signature="method#isNotEmpty#2;class#Bindings#0" expanded="false" />
-            <element signature="class#269542:270019" expanded="false" />
-            <element signature="initializer##0;class#269542:270019" expanded="false" />
-            <element signature="e#270032#270040#0" expanded="false" />
-            <element signature="docComment;method#size#2;class#Bindings#0" expanded="false" />
-            <element signature="method#size#2;class#Bindings#0" expanded="false" />
-            <element signature="class#270740:271209" expanded="false" />
-            <element signature="initializer##0;class#270740:271209" expanded="false" />
-            <element signature="docComment;method#floatValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#272188:272879" expanded="false" />
-            <element signature="initializer##0;class#272188:272879" expanded="false" />
-            <element signature="method#computeValue#0;class#272188:272879" expanded="false" />
-            <element signature="docComment;method#floatValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#floatValueAt#5;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#5;class#Bindings#0" expanded="false" />
-            <element signature="class#274536:275251" expanded="false" />
-            <element signature="initializer##0;class#274536:275251" expanded="false" />
-            <element signature="method#computeValue#0;class#274536:275251" expanded="false" />
-            <element signature="docComment;method#integerValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#276239:276927" expanded="false" />
-            <element signature="initializer##0;class#276239:276927" expanded="false" />
-            <element signature="method#computeValue#0;class#276239:276927" expanded="false" />
-            <element signature="docComment;method#integerValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="docComment;method#integerValueAt#5;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#5;class#Bindings#0" expanded="false" />
-            <element signature="class#278604:279316" expanded="false" />
-            <element signature="initializer##0;class#278604:279316" expanded="false" />
-            <element signature="method#computeValue#0;class#278604:279316" expanded="false" />
-            <element signature="e#279329#279335#0" expanded="false" />
-            <element signature="docComment;method#size#3;class#Bindings#0" expanded="false" />
-            <element signature="method#size#3;class#Bindings#0" expanded="false" />
-            <element signature="class#280189:280658" expanded="false" />
-            <element signature="initializer##0;class#280189:280658" expanded="false" />
-            <element signature="docComment;method#isEmpty#3;class#Bindings#0" expanded="false" />
-            <element signature="method#isEmpty#3;class#Bindings#0" expanded="false" />
-            <element signature="class#281409:281885" expanded="false" />
-            <element signature="initializer##0;class#281409:281885" expanded="false" />
-            <element signature="docComment;method#isNotEmpty#3;class#Bindings#0" expanded="false" />
-            <element signature="method#isNotEmpty#3;class#Bindings#0" expanded="false" />
-            <element signature="class#282648:283125" expanded="false" />
-            <element signature="initializer##0;class#282648:283125" expanded="false" />
-            <element signature="docComment;method#valueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#valueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#283903:284791" expanded="false" />
-            <element signature="initializer##0;class#283903:284791" expanded="false" />
-            <element signature="method#computeValue#0;class#283903:284791" expanded="false" />
-            <element signature="docComment;method#valueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#valueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="class#285635:286546" expanded="false" />
-            <element signature="initializer##0;class#285635:286546" expanded="false" />
-            <element signature="method#computeValue#0;class#285635:286546" expanded="false" />
-            <element signature="docComment;method#booleanValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#booleanValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#287394:288572" expanded="false" />
-            <element signature="initializer##0;class#287394:288572" expanded="false" />
-            <element signature="method#computeValue#0;class#287394:288572" expanded="false" />
-            <element signature="docComment;method#booleanValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#booleanValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="class#289486:290692" expanded="false" />
-            <element signature="initializer##0;class#289486:290692" expanded="false" />
-            <element signature="method#computeValue#0;class#289486:290692" expanded="false" />
-            <element signature="docComment;method#doubleValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#doubleValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#291542:292729" expanded="false" />
-            <element signature="initializer##0;class#291542:292729" expanded="false" />
-            <element signature="method#computeValue#0;class#291542:292729" expanded="false" />
-            <element signature="docComment;method#doubleValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#doubleValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="class#293645:294860" expanded="false" />
-            <element signature="initializer##0;class#293645:294860" expanded="false" />
-            <element signature="method#computeValue#0;class#293645:294860" expanded="false" />
-            <element signature="docComment;method#floatValueAt#6;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#6;class#Bindings#0" expanded="false" />
-            <element signature="class#295706:296891" expanded="false" />
-            <element signature="initializer##0;class#295706:296891" expanded="false" />
-            <element signature="method#computeValue#0;class#295706:296891" expanded="false" />
-            <element signature="docComment;method#floatValueAt#7;class#Bindings#0" expanded="false" />
-            <element signature="method#floatValueAt#7;class#Bindings#0" expanded="false" />
-            <element signature="class#297803:299016" expanded="false" />
-            <element signature="initializer##0;class#297803:299016" expanded="false" />
-            <element signature="method#computeValue#0;class#297803:299016" expanded="false" />
-            <element signature="docComment;method#integerValueAt#6;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#6;class#Bindings#0" expanded="false" />
-            <element signature="class#299869:301049" expanded="false" />
-            <element signature="initializer##0;class#299869:301049" expanded="false" />
-            <element signature="method#computeValue#0;class#299869:301049" expanded="false" />
-            <element signature="docComment;method#integerValueAt#7;class#Bindings#0" expanded="false" />
-            <element signature="method#integerValueAt#7;class#Bindings#0" expanded="false" />
-            <element signature="class#301968:303176" expanded="false" />
-            <element signature="initializer##0;class#301968:303176" expanded="false" />
-            <element signature="method#computeValue#0;class#301968:303176" expanded="false" />
-            <element signature="docComment;method#longValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#longValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#304015:305195" expanded="false" />
-            <element signature="initializer##0;class#304015:305195" expanded="false" />
-            <element signature="method#computeValue#0;class#304015:305195" expanded="false" />
-            <element signature="docComment;method#longValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#longValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="class#306100:307308" expanded="false" />
-            <element signature="initializer##0;class#306100:307308" expanded="false" />
-            <element signature="method#computeValue#0;class#306100:307308" expanded="false" />
-            <element signature="docComment;method#stringValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="method#stringValueAt#3;class#Bindings#0" expanded="false" />
-            <element signature="class#308149:309039" expanded="false" />
-            <element signature="initializer##0;class#308149:309039" expanded="false" />
-            <element signature="method#computeValue#0;class#308149:309039" expanded="false" />
-            <element signature="docComment;method#stringValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="method#stringValueAt#4;class#Bindings#0" expanded="false" />
-            <element signature="class#309944:310862" expanded="false" />
-            <element signature="initializer##0;class#309944:310862" expanded="false" />
-            <element signature="method#computeValue#0;class#309944:310862" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1685,7 +770,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="151">
           <caret line="59" column="26" lean-forward="false" selection-start-line="59" selection-start-column="26" selection-end-line="59" selection-end-column="26" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1693,9 +777,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="263">
           <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1703,9 +784,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="29" column="39" lean-forward="true" selection-start-line="29" selection-start-column="39" selection-end-line="29" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1713,7 +791,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="449">
           <caret line="189" column="6" lean-forward="true" selection-start-line="189" selection-start-column="6" selection-end-line="189" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1721,9 +798,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="301">
           <caret line="21" column="46" lean-forward="true" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1731,10 +805,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="59" column="11" lean-forward="false" selection-start-line="59" selection-start-column="11" selection-end-line="59" selection-end-column="11" />
-          <folding>
-            <element signature="e#1203#1204#0" expanded="false" />
-            <element signature="e#1246#1247#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1742,7 +812,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="226">
           <caret line="350" column="25" lean-forward="false" selection-start-line="350" selection-start-column="25" selection-end-line="350" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1750,9 +819,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1760,9 +826,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="567">
           <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1770,305 +833,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2073">
           <caret line="79" column="13" lean-forward="false" selection-start-line="79" selection-start-column="13" selection-end-line="79" selection-end-column="13" />
-          <folding>
-            <element signature="docComment;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#FXCollections#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#FXCollections#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableList#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableList#1;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableSet#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableSet#1;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#unmodifiableObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#unmodifiableObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#checkedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#checkedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#synchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#synchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#emptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableIntegerArray#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableIntegerArray#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableIntegerArray#1;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableIntegerArray#2;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableIntegerArray#2;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableFloatArray#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableFloatArray#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableFloatArray#1;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableFloatArray#2;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableFloatArray#2;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableArrayList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableArrayList#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableArrayList#1;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableArrayList#2;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableArrayList#2;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableArrayList#3;class#FXCollections#0" expanded="false" />
-            <element signature="method#observableArrayList#3;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#observableHashMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#concat#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#concat#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#unmodifiableObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#unmodifiableObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#checkedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#checkedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#synchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#synchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#emptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#singletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#unmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#unmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#checkedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#checkedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#synchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#synchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#emptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#copy#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#copy#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#fill#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#fill#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#replaceAll#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#replaceAll#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#reverse#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#reverse#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#rotate#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#rotate#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#shuffle#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#shuffle#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#shuffle#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#shuffle#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#swap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#sort#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#sort#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#sort#1;class#FXCollections#0" expanded="false" />
-            <element signature="method#sort#1;class#FXCollections#0" expanded="false" />
-            <element signature="class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#26707:27809" expanded="false" />
-            <element signature="method#EmptyObservableList#0;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#28447#28456#0" expanded="false" />
-            <element signature="e#28999#29008#0" expanded="false" />
-            <element signature="e#29144#29153#0" expanded="false" />
-            <element signature="method#listIterator#1;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#subList#0;class#EmptyObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SingletonObservableList#0;class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#get#0;class#SingletonObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#UnmodifiableObservableListImpl#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#UnmodifiableObservableListImpl#0;class#UnmodifiableObservableListImpl#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#32819#32935#0" expanded="false" />
-            <element signature="class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedList#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#size#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#isEmpty#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#contains#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#1;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#add#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#containsAll#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addAll#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addAll#1;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeAll#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#retainAll#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#clear#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#get#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#set#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#add#1;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#1;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#indexOf#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#lastIndexOf#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#listIterator#1;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#subList#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toString#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#hashCode#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#equals#0;class#SynchronizedList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedObservableList#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#39112#39262#0" expanded="false" />
-            <element signature="method#addAll#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#setAll#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeAll#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#retainAll#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#setAll#1;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#SynchronizedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#CheckedObservableList#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#41975#42082#0" expanded="false" />
-            <element signature="method#typeCheck#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#set#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#add#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#44938#44947#0" expanded="false" />
-            <element signature="method#addAll#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#45356#45365#0" expanded="false" />
-            <element signature="method#addAll#1;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#listIterator#1;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#45971:47247" expanded="false" />
-            <element signature="method#set#0;class#45971:47247" expanded="false" />
-            <element signature="method#add#0;class#45971:47247" expanded="false" />
-            <element signature="method#iterator#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#47341:47798" expanded="false" />
-            <element signature="method#add#1;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#subList#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#48114#48123#0" expanded="false" />
-            <element signature="method#addAll#2;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#48548#48557#0" expanded="false" />
-            <element signature="method#setAll#0;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#48982#48991#0" expanded="false" />
-            <element signature="method#setAll#1;class#CheckedObservableList#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#EmptyObservableSet#0;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#1;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#iterator#0;class#EmptyObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#50641:51076" expanded="false" />
-            <element signature="class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#UnmodifiableObservableSet#0;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#initListener#0;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#51616#51735#0" expanded="false" />
-            <element signature="method#callObservers#0;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#iterator#0;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#52099:52451" expanded="false" />
-            <element signature="method#addListener#0;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#UnmodifiableObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedSet#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#size#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#isEmpty#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#contains#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#1;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#add#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#containsAll#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addAll#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#retainAll#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeAll#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#clear#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#equals#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#hashCode#0;class#SynchronizedSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SynchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedObservableSet#0;class#SynchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#57614#57767#0" expanded="false" />
-            <element signature="method#addListener#0;class#SynchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#SynchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#SynchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#SynchronizedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#CheckedObservableSet#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#59484#59590#0" expanded="false" />
-            <element signature="method#callObservers#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#typeCheck#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#add#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#61795#61804#0" expanded="false" />
-            <element signature="method#addAll#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#iterator#0;class#CheckedObservableSet#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#62897:63288" expanded="false" />
-            <element signature="class#EmptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#EmptyObservableMap#0;class#EmptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#EmptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#EmptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#EmptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#EmptyObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#CheckedObservableMap#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#65491#65600#0" expanded="false" />
-            <element signature="method#callObservers#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#typeCheck#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#put#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#68043#68052#0" expanded="false" />
-            <element signature="method#putAll#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#68140#68171#0" expanded="false" />
-            <element signature="method#entrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#CheckedEntrySet#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addAll#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#iterator#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#71206:71697" expanded="false" />
-            <element signature="e#71726#71735#0" expanded="false" />
-            <element signature="method#toArray#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#72490#72499#0" expanded="false" />
-            <element signature="method#toArray#1;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#72603#72654#0" expanded="false" />
-            <element signature="docComment;method#contains#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#contains#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;method#containsAll#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#containsAll#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#batchRemove#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#equals#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#checkedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="docComment;class#CheckedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#CheckedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#CheckedEntry#0;class#CheckedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#setValue#0;class#CheckedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#badValueMsg#0;class#CheckedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#equals#0;class#CheckedEntry#0;class#CheckedEntrySet#0;class#CheckedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedMap#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#size#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#isEmpty#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#containsKey#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#containsValue#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#get#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#put#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#putAll#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#clear#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#keySet#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#values#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#entrySet#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#equals#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#hashCode#0;class#SynchronizedMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedCollection#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#size#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#isEmpty#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#contains#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#toArray#1;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#add#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#remove#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#containsAll#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addAll#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeAll#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#retainAll#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#clear#0;class#SynchronizedCollection#0;class#FXCollections#0" expanded="false" />
-            <element signature="class#SynchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#SynchronizedObservableMap#0;class#SynchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="e#84542#84698#0" expanded="false" />
-            <element signature="method#addListener#0;class#SynchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#0;class#SynchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#addListener#1;class#SynchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-            <element signature="method#removeListener#1;class#SynchronizedObservableMap#0;class#FXCollections#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2076,11 +840,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="39" column="7" lean-forward="false" selection-start-line="39" selection-start-column="7" selection-end-line="39" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#947#948#0" expanded="true" />
-            <element signature="e#1027#1028#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2088,13 +847,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="588">
           <caret line="51" column="1" lean-forward="false" selection-start-line="51" selection-start-column="1" selection-end-line="51" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1170#1171#0" expanded="false" />
-            <element signature="e#1235#1236#0" expanded="false" />
-            <element signature="e#1312#1313#0" expanded="false" />
-            <element signature="e#1387#1388#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2102,10 +854,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
           <caret line="229" column="20" lean-forward="false" selection-start-line="229" selection-start-column="20" selection-end-line="229" selection-end-column="20" />
-          <folding>
-            <element signature="e#7041#7042#0" expanded="false" />
-            <element signature="e#7094#7095#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2113,7 +861,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="59" column="20" lean-forward="true" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2121,7 +868,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="30" column="40" lean-forward="false" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -2129,12 +875,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="141">
           <caret line="316" column="20" lean-forward="false" selection-start-line="316" selection-start-column="20" selection-end-line="316" selection-end-column="20" />
-          <folding>
-            <element signature="e#10579#10580#0" expanded="true" />
-            <element signature="e#10631#10632#0" expanded="true" />
-            <element signature="e#12927#12928#0" expanded="true" />
-            <element signature="e#12971#12972#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
