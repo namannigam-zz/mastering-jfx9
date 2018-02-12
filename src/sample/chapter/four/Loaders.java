@@ -8,7 +8,7 @@ import java.io.IOException;
 public class Loaders {
 
     public void referenceFXML() throws IOException {
-        FXMLLoader loader = new FXMLLoader(getClass().getResource("Application.fxml"));
+        FXMLLoader loader = new FXMLLoader(getClass().getResource("FirstDocument.fxml"));
         loader.load();
         FirstController controller = loader.getController();
         Parent root = loader.getRoot();

@@ -1,0 +1,6 @@
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="sample.chapter.four.NestedController">
+    <Label text="MyLabel" />
+    <Button fx:id="myBtn" text="I'm nested" onAction="#myBtnAction" />
+</VBox>
