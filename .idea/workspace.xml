@@ -31,10 +31,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a92122-1771-4f51-9fb7-1c82182140fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/MouseClickTimeline.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/sample/chapter/five/HandlerTimerAnimation.java" afterPath="$PROJECT_DIR$/src/sample/chapter/five/HandlerTimerAnimation.java" />
+      <change beforePath="$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java" afterPath="$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="BasicAnimation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            <state relative-caret-position="420">
+              <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -82,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TimelineControls.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="TimelineControls.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="32" selection-end-column="5" />
+            <state relative-caret-position="507">
+              <caret line="48" column="68" lean-forward="false" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -94,11 +92,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MouseClickTimeline.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MouseClickTimeline.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/MouseClickTimeline.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="KeyFrame.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/animation/KeyFrame.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1610">
+              <caret line="113" column="74" lean-forward="false" selection-start-line="113" selection-start-column="69" selection-end-line="113" selection-end-column="74" />
               <folding />
             </state>
           </provider>
@@ -144,6 +152,7 @@
       <find>Deprecated</find>
       <find>greaterThan()</find>
       <find>setFill</find>
+      <find>cuepo</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -212,8 +221,8 @@
         <option value="$PROJECT_DIR$/src/sample/chapter/five/CombinHandlerAnimation.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/five/HandlerTimerAnimation.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/five/MouseClickTimeline.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java" />
       </list>
     </option>
   </component>
@@ -301,7 +310,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="Timeline&#9;PSI&#9;JAVA://javafx.animation.Timeline&#10;Initializable&#9;PSI&#9;JAVA://javafx.fxml.Initializable&#10;FXC&#9;PSI&#9;JAVA://javafx.collections.FXCollections&#10;greaterThan&#9;PSI&#9;JAVA://javafx.util.Duration#greaterThan&#10;NumberExp&#9;PSI&#9;JAVA://javafx.beans.binding.NumberExpression&#10;Bindings&#9;PSI&#9;JAVA://javafx.beans.binding.Bindings&#10;StringBinding&#9;PSI&#9;JAVA://javafx.beans.binding.StringBinding&#10;StringExpre&#9;PSI&#9;JAVA://javafx.beans.binding.StringExpression&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener&#10;ReadOnly&#9;PSI&#9;JAVA://javafx.beans.property.ReadOnlyBooleanProperty&#10;ObservableArra&#9;PSI&#9;JAVA://javafx.collections.ObservableArray&#10;Observable&#9;PSI&#9;JAVA://javafx.beans.Observable&#10;StrokeLin&#9;PSI&#9;JAVA://javafx.scene.shape.StrokeLineCap&#10;ArcTo&#9;PSI&#9;JAVA://javafx.scene.shape.ArcTo&#10;Shape&#9;PSI&#9;JAVA://javafx.scene.shape.Shape" />
+    <property name="SearchEverywhereHistoryKey" value="KeyFrame&#9;PSI&#9;JAVA://javafx.animation.KeyFrame&#10;Timeline&#9;PSI&#9;JAVA://javafx.animation.Timeline&#10;Initializable&#9;PSI&#9;JAVA://javafx.fxml.Initializable&#10;FXC&#9;PSI&#9;JAVA://javafx.collections.FXCollections&#10;greaterThan&#9;PSI&#9;JAVA://javafx.util.Duration#greaterThan&#10;NumberExp&#9;PSI&#9;JAVA://javafx.beans.binding.NumberExpression&#10;Bindings&#9;PSI&#9;JAVA://javafx.beans.binding.Bindings&#10;StringBinding&#9;PSI&#9;JAVA://javafx.beans.binding.StringBinding&#10;StringExpre&#9;PSI&#9;JAVA://javafx.beans.binding.StringExpression&#10;EventListener&#9;PSI&#9;JAVA://java.util.EventListener&#10;ReadOnly&#9;PSI&#9;JAVA://javafx.beans.property.ReadOnlyBooleanProperty&#10;ObservableArra&#9;PSI&#9;JAVA://javafx.collections.ObservableArray&#10;Observable&#9;PSI&#9;JAVA://javafx.beans.Observable&#10;StrokeLin&#9;PSI&#9;JAVA://javafx.scene.shape.StrokeLineCap&#10;ArcTo&#9;PSI&#9;JAVA://javafx.scene.shape.ArcTo&#10;Shape&#9;PSI&#9;JAVA://javafx.scene.shape.Shape" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -613,13 +622,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.base/javafx/beans/property/ReadOnlyDoublePropertyBase.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="39" column="22" lean-forward="false" selection-start-line="39" selection-start-column="22" selection-end-line="39" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.base/javafx/beans/binding/StringExpression.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="219">
@@ -978,31 +980,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="2294" column="30" lean-forward="false" selection-start-line="2294" selection-start-column="23" selection-end-line="2294" selection-end-column="30" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1027,21 +1009,49 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/MouseClickTimeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="32" selection-end-column="5" />
+        <state relative-caret-position="300">
+          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/animation/KeyFrame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1610">
+          <caret line="113" column="74" lean-forward="false" selection-start-line="113" selection-start-column="69" selection-end-line="113" selection-end-column="74" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/MouseClickTimeline.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="37" column="1" lean-forward="false" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding />
+        <state relative-caret-position="420">
+          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/TimelineControls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="48" column="68" lean-forward="false" selection-start-line="48" selection-start-column="68" selection-end-line="48" selection-end-column="68" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

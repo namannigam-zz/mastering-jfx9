@@ -13,6 +13,8 @@ import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
+import java.util.Map;
+
 public class TimelineControls extends Application {
 
     @Override
@@ -37,5 +39,18 @@ public class TimelineControls extends Application {
         System.out.println(timeline.getStatus());
         timeline.stop();
 
+
+
+        // cue points
+        KeyValue keyValue = new KeyValue(node.translateXProperty(), 200);
+        KeyFrame keyFrame = new KeyFrame(Duration.seconds(5), "cue point 1", keyValue);
+        timeline.playFrom("cue point 1");
+
+        timeline.getKeyFrames().add(keyFrame); // just to experiment
+
+        // cue points set using KeyFrame
+        for (Map.Entry<String, Duration> entry : timeline.getCuePoints().entrySet()) {
+            System.out.println(entry.getValue() + ": " + entry.getKey());
+        }
     }
 }
