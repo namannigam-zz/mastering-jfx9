@@ -13,7 +13,7 @@ import javafx.scene.shape.Circle;
 import javafx.stage.Stage;
 import javafx.util.Duration;
 
-public class HandlerTimerAnimation extends Application {
+public class TimelineControls extends Application {
 
     @Override
     public void start(Stage primaryStage) {
@@ -26,16 +26,16 @@ public class HandlerTimerAnimation extends Application {
         primaryStage.setScene(new Scene(root, 300, 250));
         primaryStage.show();
 
-        KeyFrame keyFrame = new KeyFrame(Duration.seconds(5),
-                (ActionEvent event) -> {
-//                    node.setFill(Color.GREEN);
-                },
-                new KeyValue(node.translateXProperty(), 200));
-
-        Timeline ttimer = new Timeline(new KeyFrame(Duration.seconds(1),
+        Timeline timeline = new Timeline(new KeyFrame(Duration.seconds(1),
                 (event) -> System.out.println("every second on the UI thread"))); // no keyvalues is ok
-        ttimer.setCycleCount(Timeline.INDEFINITE);
-        ttimer.play();
+        timeline.setCycleCount(Timeline.INDEFINITE);
+        timeline.play();
+        timeline.pause();
+        timeline.play();
+        timeline.setCycleCount(Timeline.INDEFINITE);
+        timeline.setAutoReverse(true);
+        System.out.println(timeline.getStatus());
+        timeline.stop();
 
     }
 }
