@@ -31,9 +31,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a92122-1771-4f51-9fb7-1c82182140fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/CombinHandlerAnimation.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/module-info.java" afterPath="$PROJECT_DIR$/src/module-info.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,14 +45,46 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="BasicAnimation.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="BasicAnimation.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+            <state relative-caret-position="225">
+              <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinedAnimation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="36" column="62" lean-forward="false" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CombinHandlerAnimation.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinHandlerAnimation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="402">
+              <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Node.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="2294" column="30" lean-forward="false" selection-start-line="2294" selection-start-column="23" selection-end-line="2294" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -73,6 +105,7 @@
       <find>setStr</find>
       <find>Deprecated</find>
       <find>greaterThan()</find>
+      <find>setFill</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -92,8 +125,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/chapter/two/ClosedShapes.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/two/Lines.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/two/Arcs.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/two/Curves.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/two/SVGPathSample.java" />
@@ -143,6 +174,8 @@
         <option value="$PROJECT_DIR$/src/sample/chapter/four/StaticProperties.fxml" />
         <option value="$PROJECT_DIR$/src/module-info.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/five/CombinHandlerAnimation.java" />
       </list>
     </option>
   </component>
@@ -212,6 +245,13 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="five" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -227,6 +267,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample.chapter.five" />
       <recent name="sample.chapter.four" />
       <recent name="sample.chapter.three" />
       <recent name="sample.chapter.two" />
@@ -247,7 +288,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BasicAnimation">
+  <component name="RunManager" selected="Application.CombinedAnimation">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -311,14 +352,14 @@
       <module name="mastering-jfx9" />
       <envs />
     </configuration>
-    <configuration name="CustomBindings" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CombinedAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="sample.chapter.three.*" />
+          <option name="PATTERN" value="sample.chapter.five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.three.CustomBindings" />
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.five.CombinedAnimation" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -424,19 +465,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.CustomBindings" />
-      <item index="1" class="java.lang.String" itemvalue="Application.BindingCollections" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BindingObservableList" />
-      <item index="3" class="java.lang.String" itemvalue="Application.FxRootDemo" />
-      <item index="4" class="java.lang.String" itemvalue="Application.BasicAnimation" />
+      <item index="0" class="java.lang.String" itemvalue="Application.BindingCollections" />
+      <item index="1" class="java.lang.String" itemvalue="Application.BindingObservableList" />
+      <item index="2" class="java.lang.String" itemvalue="Application.FxRootDemo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.BasicAnimation" />
+      <item index="4" class="java.lang.String" itemvalue="Application.CombinedAnimation" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.BasicAnimation" />
-        <item index="1" class="java.lang.String" itemvalue="Application.FxRootDemo" />
-        <item index="2" class="java.lang.String" itemvalue="Application.BindingObservableList" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BindingCollections" />
-        <item index="4" class="java.lang.String" itemvalue="Application.CustomBindings" />
+        <item index="0" class="java.lang.String" itemvalue="Application.CombinedAnimation" />
+        <item index="1" class="java.lang.String" itemvalue="Application.BasicAnimation" />
+        <item index="2" class="java.lang.String" itemvalue="Application.FxRootDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.BindingObservableList" />
+        <item index="4" class="java.lang.String" itemvalue="Application.BindingCollections" />
       </list>
     </recent_temporary>
   </component>
@@ -480,7 +521,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914772" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="SBT Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -515,7 +556,7 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="4" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -534,27 +575,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.base/javafx/beans/property/ReadOnlyDoubleWrapper.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.base/javafx/beans/property/ReadOnlyFloatProperty.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="42" column="14" lean-forward="false" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/java.base/java/util/EventListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.base/javafx/beans/property/Property.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
@@ -943,8 +963,34 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
+        <state relative-caret-position="225">
+          <caret line="15" column="13" lean-forward="false" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinedAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="36" column="62" lean-forward="false" selection-start-line="36" selection-start-column="62" selection-end-line="36" selection-end-column="62" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="2294" column="30" lean-forward="false" selection-start-line="2294" selection-start-column="23" selection-end-line="2294" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinHandlerAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="402">
+          <caret line="32" column="18" lean-forward="true" selection-start-line="32" selection-start-column="18" selection-end-line="32" selection-end-column="18" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
