@@ -31,8 +31,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52a92122-1771-4f51-9fb7-1c82182140fb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/CombinatorialTransition.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/Transition.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/sample/chapter/five/EarthApplication.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -67,11 +66,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CombinatorialTransition.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CombinatorialTransition.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinatorialTransition.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EarthApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/EarthApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="570">
+              <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BasicAnimation.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" column="43" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -126,7 +147,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/chapter/two/ColorsSample.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/two/ImagePatternSample.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/two/StrokesSample.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/two/DashedLineSample.java" />
@@ -177,6 +197,7 @@
         <option value="$PROJECT_DIR$/src/sample/chapter/five/TranslateTransition.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/five/Transition.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/five/CombinatorialTransition.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/five/EarthApplication.java" />
       </list>
     </option>
   </component>
@@ -289,21 +310,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Interpolators">
+  <component name="RunManager" selected="Application.EarthApplication">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="BasicAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="CombinedAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="sample.chapter.five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.five.BasicAnimation" />
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.five.CombinedAnimation" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -315,14 +336,14 @@
       <module name="mastering-jfx9" />
       <envs />
     </configuration>
-    <configuration name="CombinedAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="EarthApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="sample.chapter.five.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.five.CombinedAnimation" />
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.five.EarthApplication" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -466,19 +487,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.BasicAnimation" />
-      <item index="1" class="java.lang.String" itemvalue="Application.CombinedAnimation" />
-      <item index="2" class="java.lang.String" itemvalue="Application.HandlerTimerAnimation" />
-      <item index="3" class="java.lang.String" itemvalue="Application.MouseClickTimeline" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Interpolators" />
+      <item index="0" class="java.lang.String" itemvalue="Application.CombinedAnimation" />
+      <item index="1" class="java.lang.String" itemvalue="Application.HandlerTimerAnimation" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MouseClickTimeline" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Interpolators" />
+      <item index="4" class="java.lang.String" itemvalue="Application.EarthApplication" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Interpolators" />
-        <item index="1" class="java.lang.String" itemvalue="Application.MouseClickTimeline" />
-        <item index="2" class="java.lang.String" itemvalue="Application.HandlerTimerAnimation" />
-        <item index="3" class="java.lang.String" itemvalue="Application.CombinedAnimation" />
-        <item index="4" class="java.lang.String" itemvalue="Application.BasicAnimation" />
+        <item index="0" class="java.lang.String" itemvalue="Application.EarthApplication" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Interpolators" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MouseClickTimeline" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HandlerTimerAnimation" />
+        <item index="4" class="java.lang.String" itemvalue="Application.CombinedAnimation" />
       </list>
     </recent_temporary>
   </component>
@@ -576,13 +597,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/three/BindingStringOperations.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/chapter/three/BindingNumberOperations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -943,16 +957,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="23" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.1.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/animation/Interpolatable.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -1013,8 +1017,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/CombinatorialTransition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="1" lean-forward="false" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="43" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="18" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/EarthApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="30" lean-forward="false" selection-start-line="38" selection-start-column="30" selection-end-line="38" selection-end-column="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
