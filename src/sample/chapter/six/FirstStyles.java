@@ -17,6 +17,9 @@ public class FirstStyles extends Application {
         btnLoad.setOnAction((ActionEvent event) -> scene.getStylesheets()
                 .add("sample/chapter/six/style.css"));
 
+//        scene.getStylesheets()
+//                .add("https://raw.githubusercontent.com/sgrinev/mastering-javafx-9-book/master/Chapter6/src/chapter6/basics/style.css");
+
         Button btnUnload = new Button("Unoad CSS");
         btnUnload.setOnAction((ActionEvent event) -> scene.getStylesheets().clear());
 
