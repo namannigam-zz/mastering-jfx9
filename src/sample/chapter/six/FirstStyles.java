@@ -15,7 +15,7 @@ public class FirstStyles extends Application {
 
         Button btnLoad = new Button("Load CSS");
         btnLoad.setOnAction((ActionEvent event) -> scene.getStylesheets()
-                .add("sample/chapter/six/style.css"));
+                .add(getClass().getResource("style.css").toExternalForm()));
 
 //        scene.getStylesheets()
 //                .add("https://raw.githubusercontent.com/sgrinev/mastering-javafx-9-book/master/Chapter6/src/chapter6/basics/style.css");

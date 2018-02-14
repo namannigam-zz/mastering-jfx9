@@ -1,0 +1,8 @@
+/* chapter6/syntax/pseudo-class-demo.css */
+
+/* 1. Only direct children of #vb, note the ">" sign */
+#vb > .radio-button { -fx-font-size: 20 }
+/* 2. All children of #vb */
+#vb .radio-button { -fx-underline: true }
+/* 3. All radio buttons */
+.radio-button:selected { -fx-text-fill: red }

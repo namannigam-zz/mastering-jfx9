@@ -1,0 +1,2 @@
+.radio-button { -fx-font-size: 30 }
+.radio-button:selected { -fx-text-fill: red; -fx-font-weight: bold }
