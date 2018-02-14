@@ -1,0 +1,12 @@
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.control.*?>
+<HBox xmlns:fx="http://javafx.com/fxml" >
+    <fx:define>
+        <ToggleGroup fx:id="toggleGroup"/>
+    </fx:define>
+    <children>
+        <RadioButton text="radio1" toggleGroup="$toggleGroup"/>
+        <RadioButton text="radio2" toggleGroup="$toggleGroup"/>
+        <RadioButton text="radio3" toggleGroup="$toggleGroup"/>
+    </children>
+</HBox>

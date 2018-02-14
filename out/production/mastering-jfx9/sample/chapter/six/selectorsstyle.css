@@ -1,0 +1,24 @@
+.root {
+    -fx-background-color: lightblue;
+    -fx-padding: 10px;
+}
+.button {
+    -fx-background-color: white
+}
+.grid-pane {
+    -fx-background-color: lightblue;
+    -fx-padding: 10px;
+}
+GridPane {
+    -fx-background-color: lightblue;
+    -fx-padding: 10px;
+}
+
+// CSS
+#myButton {
+ -fx-background-color: lightblue;
+}
+
+ // JavaFX
+ Button btn = new Button("hi");
+ btn.setId("myButton");
