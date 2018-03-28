@@ -1,7 +1,74 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6fa1ca5a-da4c-4c5c-9d94-b3883dd81f3b" name="Default" comment="" />
+    <list default="true" id="6fa1ca5a-da4c-4c5c-9d94-b3883dd81f3b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/BasicAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/BasicAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/CombinatorialTransition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/CombinatorialTransition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/CombinedAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/CombinedAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/EarthApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/EarthApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/HandlerTimerAnimation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/HandlerTimerAnimation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/Interpolators.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/Interpolators.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/MouseClickTimeline.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/MouseClickTimeline.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/TimelineControls.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/TimelineControls.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/Transition.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/five/Transition.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/FirstController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/FirstController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/FirstNestedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/FirstNestedController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/FxRootDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/FxRootDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/Loaders.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/Loaders.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/MyControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/MyControl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/NestedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/NestedController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/PreConstructedController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/PreConstructedController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/SmartController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/four/SmartController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/AnchorPaneDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/AnchorPaneDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/BorderPaneDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/BorderPaneDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/CheckBoxApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/CheckBoxApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/ClockOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/ClockOne.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/FXApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/FXApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/FXModality.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/FXModality.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/GridPaneDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/GridPaneDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/HelloFxSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/HelloFxSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/HorizontalBoxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/HorizontalBoxes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/TilePaneDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/TilePaneDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/VerticalBoxes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/one/VerticalBoxes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/DescendancyDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/DescendancyDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/FirstStyles.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/FirstStyles.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/InheritDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/InheritDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/PseudoClassDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/PseudoClassDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/SelectorsEq.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/SelectorsEq.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/SetStyleDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/six/SetStyleDemo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindBidirectionally.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindBidirectionally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/Binding.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/Binding.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingBidirectionalAndConverter$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingBidirectionalAndConverter$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingBidirectionalAndConverter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingBidirectionalAndConverter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingBooleanOperation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingBooleanOperation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingCollections.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingCollections.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingException.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingForVisualHelp.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingForVisualHelp.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingNumberOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingNumberOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingObservableList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingObservableList.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingStringOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/BindingStringOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/CustomBindings$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/CustomBindings$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/CustomBindings.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/CustomBindings.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/ObservableWidthProperty.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/three/ObservableWidthProperty.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ButtonSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ButtonSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ClockTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ClockTwo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ClosedShapes.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ClosedShapes.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ColorsSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ColorsSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Curves.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Curves.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/DashedLineSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/DashedLineSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ImagePatternSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ImagePatternSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Lines.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Lines.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Paths.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Paths.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/SVGPathSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/SVGPathSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ShapeOperations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/ShapeOperations.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/StrokesSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/StrokesSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/TextSample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/TextSample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Transformations.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/two/Transformations.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -11,31 +78,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="module-info.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="25" lean-forward="true" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="BasicAnimation.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
+      <file leaf-file-name="module-info.java" pinned="false" current-in-tab="true">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.ci/module-info.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="34" column="1" lean-forward="true" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+            <state relative-caret-position="330">
+              <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/sample/chapter/eight/JVMCI.java" />
+        <option value="$PROJECT_DIR$/src/module-info.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
@@ -44,32 +126,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
+              <item name="ci" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
+              <item name="ci" type="462c0819:PsiDirectoryNode" />
+              <item name="runtime" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
+              <item name="ci" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="JVMC&#9;PSI&#9;JAVA://jdk.vm.ci.runtime.JVMCI" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -83,7 +194,30 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.JVMCI">
+    <configuration name="BasicAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.five.BasicAnimation" />
+      <module name="mastering-jfx9" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.chapter.five.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="JVMCI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.eight.JVMCI" />
+      <module name="mastering-jfx9" />
+      <option name="VM_PARAMETERS" value="-XX:+UnlockExperimentalVMOptions -XX:+EnableJVMCI -XX:+UseJVMCICompiler -Djvmci.Compiler=graal" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.chapter.eight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -125,6 +259,16 @@
       <properties />
       <listeners />
     </configuration>
+    <list>
+      <item itemvalue="Application.BasicAnimation" />
+      <item itemvalue="Application.JVMCI" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JVMCI" />
+        <item itemvalue="Application.BasicAnimation" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -140,32 +284,33 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2819063" />
+      <window_info anchor="bottom" id="Messages" weight="0.32965517" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.77793103" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -188,12 +333,134 @@
         </state>
       </provider>
     </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home!/jdk.internal.vm.ci/jdk/vm/ci/runtime/JVMCI.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/two/ClockTwo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home!/jdk.internal.vm.ci/jdk/vm/ci/hotspot/HotSpotJVMCIRuntime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="292" column="19" lean-forward="true" selection-start-line="292" selection-start-column="19" selection-end-line="292" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/JVMCI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.ci/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="2" lean-forward="true" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>9.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>mastering-jfx9</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
           <splitter-proportions>
             <option name="proportions">
               <list>
