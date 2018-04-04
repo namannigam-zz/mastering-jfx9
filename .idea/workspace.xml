@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fa1ca5a-da4c-4c5c-9d94-b3883dd81f3b" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/eight/Effects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/seven/AnchorPanes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/seven/FluidLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/seven/GrowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/seven/MinMaxSixeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/seven/anchorpane.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/module-info.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/eight/JVMCI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,20 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="module-info.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/module-info.java">
+      <file leaf-file-name="Effects.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/Effects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="module-info.java" pinned="false" current-in-tab="true">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.ci/module-info.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+            <state relative-caret-position="30">
+              <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -48,6 +49,12 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/sample/chapter/eight/JVMCI.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/seven/MinMaxSixeDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/seven/anchorpane.fxml" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/one/AnchorPaneDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/seven/AnchorPanes.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/seven/GrowDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/seven/FluidLayout.java" />
         <option value="$PROJECT_DIR$/src/module-info.java" />
       </list>
     </option>
@@ -55,6 +62,9 @@
   <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1280" />
     <option name="height" value="800" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -69,41 +79,32 @@
           <expand>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
-              <item name="ci" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="eight" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
-              <item name="ci" type="462c0819:PsiDirectoryNode" />
-              <item name="runtime" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="jdk.internal.vm.ci" type="462c0819:PsiDirectoryNode" />
-              <item name="ci" type="462c0819:PsiDirectoryNode" />
-              <item name="services" type="462c0819:PsiDirectoryNode" />
+              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter" type="462c0819:PsiDirectoryNode" />
+              <item name="six" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -112,10 +113,18 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="JVMC&#9;PSI&#9;JAVA://jdk.vm.ci.runtime.JVMCI" />
+    <property name="SearchEverywhereHistoryKey" value="ScrollPa&#9;PSI&#9;JAVA://javafx.scene.control.ScrollPane&#10;AnchorPane&#9;PSI&#9;JAVA://sample.chapter.one.AnchorPaneDemo&#10;JVMC&#9;PSI&#9;JAVA://jdk.vm.ci.runtime.JVMCI" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample.chapter.seven" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/sample/chapter/seven" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -129,7 +138,18 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.JVMCI">
+  <component name="RunManager" selected="Application.FluidLayout">
+    <configuration name="AnchorPanes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.seven.AnchorPanes" />
+      <module name="mastering-jfx9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.chapter.seven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="BasicAnimation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="sample.chapter.five.BasicAnimation" />
       <module name="mastering-jfx9" />
@@ -137,6 +157,28 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="sample.chapter.five.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="FluidLayout" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.seven.FluidLayout" />
+      <module name="mastering-jfx9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.chapter.seven.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="GrowDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.seven.GrowDemo" />
+      <module name="mastering-jfx9" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sample.chapter.seven.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,9 +239,15 @@
     <list>
       <item itemvalue="Application.BasicAnimation" />
       <item itemvalue="Application.JVMCI" />
+      <item itemvalue="Application.AnchorPanes" />
+      <item itemvalue="Application.GrowDemo" />
+      <item itemvalue="Application.FluidLayout" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FluidLayout" />
+        <item itemvalue="Application.AnchorPanes" />
+        <item itemvalue="Application.GrowDemo" />
         <item itemvalue="Application.JVMCI" />
         <item itemvalue="Application.BasicAnimation" />
       </list>
@@ -219,23 +267,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SBT Console" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32917705" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32965517" />
-      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32965517" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32917705" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917705" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28998384" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info anchor="bottom" id="SBT Execute" side_tool="true" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -249,7 +298,6 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.32965517" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -298,13 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="22" column="31" lean-forward="true" selection-start-line="22" selection-start-column="31" selection-end-line="22" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home!/jdk.internal.vm.ci/jdk/vm/ci/hotspot/HotSpotJVMCIRuntime.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="239">
@@ -313,10 +354,10 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/JVMCI.java" />
-    <entry file="file://$PROJECT_DIR$/src/module-info.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" selection-start-line="10" selection-end-line="10" selection-end-column="1" />
+        <state relative-caret-position="210">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
         </state>
       </provider>
     </entry>
@@ -324,6 +365,89 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/MinMaxSixeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.controls/javafx/scene/control/ScrollPane.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/FluidLayout.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/AnchorPanes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/anchorpane.fxml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/one/AnchorPaneDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/GrowDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/six/DescendancyDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/Effects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
         </state>
       </provider>
     </entry>
