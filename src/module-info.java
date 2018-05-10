@@ -15,4 +15,7 @@ module mastering.jfx {
     requires javafx.graphics;
     requires javafx.controls;
     requires javafx.fxml;
+    requires javafx.web;
+    requires javafx.media;
+    requires jdk.jsobject;
 }
