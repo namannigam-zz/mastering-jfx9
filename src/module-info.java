@@ -9,7 +9,6 @@ module mastering.jfx {
     exports sample.chapter.eight;
     exports sample.chapter.nine;
     exports sample.chapter.ten;
-    exports sample.chapter.eleven;
     exports sample.chapter.twelve;
     exports sample.chapter.thirteen;
     requires javafx.graphics;

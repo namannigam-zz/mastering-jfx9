@@ -2,20 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6fa1ca5a-da4c-4c5c-9d94-b3883dd81f3b" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/DOMDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/JavaBridgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/LoadWorkerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/MediaAudioDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/MediaViewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/WebEngineDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/WebEngineOpenPopupDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/WebOverlayDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sample/chapter/nine/WebviewDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/Chapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/CheckBoxDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/ChoiceBoxListCellDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/MultiSelectDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/ObservableChapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/PieChartDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/TableViewDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/TextFieldListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/ToDoItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/ten/XYChartsDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/twelve/Basic3DDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/twelve/EarthDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/twelve/LightDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sample/chapter/twelve/Materials.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/module-info.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/mastering-jfx9/module-info.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/nine/DropShadowSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/eleven/DropShadowSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/ten/DropShadowSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/mastering-jfx9/sample/chapter/twelve/DropShadowSample.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/module-info.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/sample/chapter/nine/DropShadowSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/chapter/eleven/DropShadowSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/chapter/ten/DropShadowSample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sample/chapter/twelve/DropShadowSample.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,7 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -41,7 +50,11 @@
       <find>windo</find>
       <find>closer</find>
       <find>confirm()</find>
+      <find>TodoItem</find>
     </findStrings>
+    <replaceStrings>
+      <replace>ToDoItem</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -49,15 +62,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/sample/chapter/eight/JVMCI.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/seven/MinMaxSixeDemo.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/seven/anchorpane.fxml" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/one/AnchorPaneDemo.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/seven/AnchorPanes.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/seven/GrowDemo.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/seven/FluidLayout.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/eight/DropShadow.java" />
-        <option value="$PROJECT_DIR$/src/sample/chapter/eight/DropShadowSample.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/nine/DropShadowSample.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/ten/DropShadowSample.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/eleven/DropShadowSample.java" />
@@ -90,9 +94,25 @@
         <option value="$PROJECT_DIR$/src/sample/chapter/nine/WEbBridge.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/nine/JavaBridgeDEmo.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/nine/JavaBridgeDemo.java" />
-        <option value="$PROJECT_DIR$/src/module-info.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/nine/MediaAudioDemo.java" />
         <option value="$PROJECT_DIR$/src/sample/chapter/nine/MediaViewDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/nine/DoublStream.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/TextFieldListDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/MultiSelectDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/ChoiceBoxListCellDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/ToDoItem.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/CheckBoxDemoDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/CheckBoxDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/Chapter.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/TableViewDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/ObservableChapter.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/PieChartDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/ten/XYChartsDemo.java" />
+        <option value="$PROJECT_DIR$/src/module-info.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/twelve/Basic3DDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/twelve/LightDemo.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/twelve/Materials.java" />
+        <option value="$PROJECT_DIR$/src/sample/chapter/twelve/EarthDemo.java" />
       </list>
     </option>
   </component>
@@ -110,7 +130,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,13 +149,6 @@
               <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="chapter" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mastering-jfx9" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="chapter" type="462c0819:PsiDirectoryNode" />
-              <item name="nine" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
@@ -186,6 +200,15 @@
               <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
               <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="javafx.graphics" type="462c0819:PsiDirectoryNode" />
+              <item name="javafx" type="462c0819:PsiDirectoryNode" />
+              <item name="scene" type="462c0819:PsiDirectoryNode" />
+              <item name="paint" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="mastering-jfx9" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; 9.0 &gt;" type="70bed36:NamedLibraryElementNode" />
               <item name="javafx.media" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -212,23 +235,22 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Media&#9;PSI&#9;JAVA://javafx.scene.media.Media&#10;JSO&#9;PSI&#9;JAVA://netscape.javascript.JSObject&#10;window&#9;PSI&#9;JAVA://javafx.stage.Window&#10;Webview&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.web/javafx/scene/web/WebView.java&#10;Perspec&#9;PSI&#9;JAVA://javafx.scene.effect.PerspectiveTransform&#10;ScrollPa&#9;PSI&#9;JAVA://javafx.scene.control.ScrollPane&#10;AnchorPane&#9;PSI&#9;JAVA://sample.chapter.one.AnchorPaneDemo&#10;JVMC&#9;PSI&#9;JAVA://jdk.vm.ci.runtime.JVMCI" />
+    <property name="SearchEverywhereHistoryKey" value="ListView&#9;PSI&#9;JAVA://javafx.scene.control.ListView&#10;Media&#9;PSI&#9;JAVA://javafx.scene.media.Media&#10;JSO&#9;PSI&#9;JAVA://netscape.javascript.JSObject&#10;window&#9;PSI&#9;JAVA://javafx.stage.Window&#10;Webview&#9;FILE&#9;jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.web/javafx/scene/web/WebView.java&#10;Perspec&#9;PSI&#9;JAVA://javafx.scene.effect.PerspectiveTransform&#10;ScrollPa&#9;PSI&#9;JAVA://javafx.scene.control.ScrollPane&#10;AnchorPane&#9;PSI&#9;JAVA://sample.chapter.one.AnchorPaneDemo&#10;JVMC&#9;PSI&#9;JAVA://jdk.vm.ci.runtime.JVMCI" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="sample.chapter.ten" />
       <recent name="sample.chapter.nine" />
       <recent name="sample.chapter.eight" />
       <recent name="sample.chapter.thriteen" />
       <recent name="sample.chapter.twelve" />
-      <recent name="sample.chapter.eleven" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/sample/chapter/seven" />
@@ -246,58 +268,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MediaViewDemo">
-    <configuration name="DOMDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.nine.DOMDemo" />
+  <component name="RunManager" selected="Application.EarthDemo">
+    <configuration name="Basic3DDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.twelve.Basic3DDemo" />
       <module name="mastering-jfx9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.chapter.nine.*" />
+          <option name="PATTERN" value="sample.chapter.twelve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="JavaBridgeDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.nine.JavaBridgeDemo" />
+    <configuration name="EarthDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.twelve.EarthDemo" />
       <module name="mastering-jfx9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.chapter.nine.*" />
+          <option name="PATTERN" value="sample.chapter.twelve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MediaAudioDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.nine.MediaAudioDemo" />
+    <configuration name="LightDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.twelve.LightDemo" />
       <module name="mastering-jfx9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.chapter.nine.*" />
+          <option name="PATTERN" value="sample.chapter.twelve.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MediaViewDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.nine.MediaViewDemo" />
+    <configuration name="PieChartDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.ten.PieChartDemo" />
       <module name="mastering-jfx9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.chapter.nine.*" />
+          <option name="PATTERN" value="sample.chapter.ten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="WebOverlayDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.chapter.nine.WebOverlayDemo" />
+    <configuration name="XYChartsDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sample.chapter.ten.XYChartsDemo" />
       <module name="mastering-jfx9" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sample.chapter.nine.*" />
+          <option name="PATTERN" value="sample.chapter.ten.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -344,19 +366,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.DOMDemo" />
-      <item itemvalue="Application.WebOverlayDemo" />
-      <item itemvalue="Application.JavaBridgeDemo" />
-      <item itemvalue="Application.MediaAudioDemo" />
-      <item itemvalue="Application.MediaViewDemo" />
+      <item itemvalue="Application.PieChartDemo" />
+      <item itemvalue="Application.XYChartsDemo" />
+      <item itemvalue="Application.Basic3DDemo" />
+      <item itemvalue="Application.LightDemo" />
+      <item itemvalue="Application.EarthDemo" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MediaViewDemo" />
-        <item itemvalue="Application.MediaAudioDemo" />
-        <item itemvalue="Application.JavaBridgeDemo" />
-        <item itemvalue="Application.WebOverlayDemo" />
-        <item itemvalue="Application.DOMDemo" />
+        <item itemvalue="Application.EarthDemo" />
+        <item itemvalue="Application.LightDemo" />
+        <item itemvalue="Application.Basic3DDemo" />
+        <item itemvalue="Application.XYChartsDemo" />
+        <item itemvalue="Application.PieChartDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -394,15 +416,14 @@
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3286991" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5223436" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.32917705" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.2347561" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4985207" weight="0.13525027" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49688148" weight="0.14749734" />
       <window_info anchor="bottom" id="SBT Execute" order="7" side_tool="true" />
-      <window_info id="Structure" order="1" sideWeight="0.50147927" side_tool="true" weight="0.11608094" />
+      <window_info id="Structure" order="1" sideWeight="0.5031185" side_tool="true" weight="0.14749734" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
       <window_info anchor="right" id="Theme Preview" order="3" />
@@ -413,6 +434,7 @@
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
     <layout-to-restore>
       <window_info anchor="right" id="Palette" order="3" />
@@ -421,12 +443,12 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3286991" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4985207" visible="true" weight="0.11608094" />
       <window_info id="Structure" order="1" sideWeight="0.50147927" side_tool="true" visible="true" weight="0.11608094" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32969216" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32917705" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -437,7 +459,7 @@
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.2347561" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Version Control" order="8" weight="0.32917705" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Capture Tool" order="5" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.3286991" />
@@ -454,133 +476,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home!/jdk.internal.vm.ci/jdk/vm/ci/runtime/JVMCI.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="17" selection-start-column="37" selection-end-line="17" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/two/ClockTwo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="35" column="34" lean-forward="true" selection-start-line="35" selection-start-column="34" selection-end-line="35" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jrt:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home!/jdk.internal.vm.ci/jdk/vm/ci/hotspot/HotSpotJVMCIRuntime.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="239">
-          <caret line="292" column="19" lean-forward="true" selection-start-line="292" selection-start-column="19" selection-end-line="292" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/JVMCI.java" />
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/five/BasicAnimation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/jdk.internal.vm.ci/module-info.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/MinMaxSixeDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.controls/javafx/scene/control/ScrollPane.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="67" column="6" lean-forward="true" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/FluidLayout.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="34" lean-forward="true" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/AnchorPanes.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="1" lean-forward="true" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/one/AnchorPaneDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/seven/GrowDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/six/DescendancyDemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="37" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="37" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/DropShadowSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/thirteen/DropShadowSample.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="11" column="51" lean-forward="true" selection-start-line="11" selection-start-column="51" selection-end-line="11" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/effect/DropShadow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="115" column="11" selection-start-line="115" selection-start-column="11" selection-end-line="115" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/effect/InnerShadow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/OneToAnotherEffect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="29" lean-forward="true" selection-start-line="27" selection-start-column="29" selection-end-line="27" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/ReflectionAndShadows.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/sample/chapter/eight/ReflectionDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -620,9 +515,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="1" selection-start-line="28" selection-start-column="1" selection-end-line="28" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -630,9 +522,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -640,9 +529,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="55" lean-forward="true" selection-start-line="36" selection-start-column="55" selection-end-line="36" selection-end-column="55" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,9 +536,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="39" selection-start-line="34" selection-start-column="39" selection-end-line="34" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -660,9 +543,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="29" column="17" lean-forward="true" selection-start-line="29" selection-start-column="17" selection-end-line="29" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -670,9 +550,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="495">
           <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -680,9 +557,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -690,9 +564,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
           <caret line="36" column="44" lean-forward="true" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -707,9 +578,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -717,9 +585,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -727,9 +592,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,9 +606,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-end-line="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,9 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,9 +620,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -774,9 +627,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -784,9 +634,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="555">
           <caret line="37" column="1" selection-start-line="37" selection-start-column="1" selection-end-line="37" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -811,14 +658,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/module-info.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/MediaViewDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="1" lean-forward="true" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        <state relative-caret-position="315">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/MediaViewDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/MediaAudioDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/JavaBridgeDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/WebOverlayDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.media/javafx/scene/media/Media.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/DoublStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
@@ -828,42 +703,200 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/MediaAudioDemo.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.controls/javafx/scene/control/ListView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="319">
+          <caret line="594" column="52" selection-start-line="594" selection-start-column="52" selection-end-line="594" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/MultiSelectDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="34" column="1" selection-start-line="34" selection-start-column="1" selection-end-line="34" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/ToDoItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#395#396#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/ChoiceBoxListCellDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="1" selection-start-line="27" selection-start-column="1" selection-end-line="27" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/JavaBridgeDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/CheckBoxDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="735">
-          <caret line="49" column="1" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        <state relative-caret-position="578">
+          <caret line="55" column="1" selection-start-line="55" selection-start-column="1" selection-end-line="55" selection-end-column="1" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1586#1587#0" expanded="true" />
-            <element signature="e#1622#1623#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1554#1555#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/sample/chapter/nine/WebOverlayDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/Chapter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#285#286#0" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#344#345#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/TextFieldListDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="16" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.media/javafx/scene/media/Media.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.controls/javafx/scene/control/TableView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="77" column="19" selection-start-line="77" selection-start-column="19" selection-end-line="77" selection-end-column="19" />
+        <state relative-caret-position="151">
+          <caret line="1318" column="50" selection-start-line="1318" selection-start-column="50" selection-end-line="1318" selection-end-column="50" />
+          <folding>
+            <element signature="e#59262#59263#0" expanded="true" />
+            <element signature="e#59292#59293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/TableViewDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="30" lean-forward="true" selection-start-line="28" selection-start-column="30" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/paint/Material.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="50" lean-forward="true" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-9.0.4.jdk/Contents/Home/lib/src.zip!/javafx.graphics/javafx/scene/paint/PhongMaterial.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/twelve/EarthDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="19" lean-forward="true" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/twelve/Materials.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/twelve/LightDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/twelve/Basic3DDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="40" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/module-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/XYChartsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="64" column="41" lean-forward="true" selection-start-line="64" selection-start-column="41" selection-end-line="64" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/PieChartDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="24" selection-start-line="24" selection-start-column="24" selection-end-line="24" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sample/chapter/ten/ObservableChapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="28" selection-start-line="14" selection-start-column="28" selection-end-line="14" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#444#445#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#536#537#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#629#630#0" expanded="true" />
+            <element signature="e#669#670#0" expanded="true" />
+            <element signature="e#721#722#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#910#911#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
